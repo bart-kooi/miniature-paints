@@ -3,3 +3,761 @@
 
 |Name|Code|Set|R|G|B|Hex|
 |---|---|---|---|---|---|---|
+|Olivgrün Opt 1 RAL 6003|A.MIG-0001|Acrylic|52|61|46|![#343D2E](https://placehold.co/15x15/343D2E/343D2E.png) `#343D2E`|
+|Olivgrün Opt 2 RAL 6003|A.MIG-0002|Acrylic|81|94|57|![#515E39](https://placehold.co/15x15/515E39/515E39.png) `#515E39`|
+|Resedagrün RAL 6011|A.MIG-0003|Acrylic|99|125|83|![#637D53](https://placehold.co/15x15/637D53/637D53.png) `#637D53`|
+|Resedagrün B RAL 6011|A.MIG-0004|Acrylic|81|94|57|![#515E39](https://placehold.co/15x15/515E39/515E39.png) `#515E39`|
+|Graugrün RAL 7008|A.MIG-0005|Acrylic|97|88|64|![#615840](https://placehold.co/15x15/615840/615840.png) `#615840`|
+|Graugrün Opt 2 RAL 7008|A.MIG-0006|Acrylic|130|130|83|![#828253](https://placehold.co/15x15/828253/828253.png) `#828253`|
+|Dunkelbraun RAL 7017|A.MIG-0007|Acrylic|80|65|55|![#504137](https://placehold.co/15x15/504137/504137.png) `#504137`|
+|Dunklegrau RAL 7021|A.MIG-0008|Acrylic|43|46|57|![#2B2E39](https://placehold.co/15x15/2B2E39/2B2E39.png) `#2B2E39`|
+|Sandgrau RAL 7027|A.MIG-0009|Acrylic|182|167|145|![#B6A791](https://placehold.co/15x15/B6A791/B6A791.png) `#B6A791`|
+|Dunkelgelb Mid War RAL 7028|A.MIG-0010|Acrylic|156|143|75|![#9C8F4B](https://placehold.co/15x15/9C8F4B/9C8F4B.png) `#9C8F4B`|
+|Dunkelgelb Aus 44 DG I RAL 7028|A.MIG-0011|Acrylic|188|181|132|![#BCB584](https://placehold.co/15x15/BCB584/BCB584.png) `#BCB584`|
+|Dunkelgelb Aus 44 DG III RAL 7028|A.MIG-0012|Acrylic|204|196|159|![#CCC49F](https://placehold.co/15x15/CCC49F/CCC49F.png) `#CCC49F`|
+|Gelbbraun RAL 8000|A.MIG-0013|Acrylic|165|144|119|![#A59077](https://placehold.co/15x15/A59077/A59077.png) `#A59077`|
+|Rotbraun RAL 8012|A.MIG-0014|Acrylic|129|51|38|![#813326](https://placehold.co/15x15/813326/813326.png) `#813326`|
+|Schokobraun RAL 8017|A.MIG-0015|Acrylic|78|49|50|![#4E3132](https://placehold.co/15x15/4E3132/4E3132.png) `#4E3132`|
+|Gelbbraun RAL 8020|A.MIG-0016|Acrylic|217|189|121|![#D9BD79](https://placehold.co/15x15/D9BD79/D9BD79.png) `#D9BD79`|
+|Cremeweiss RAL 9001|A.MIG-0017|Acrylic|232|229|186|![#E8E5BA](https://placehold.co/15x15/E8E5BA/E8E5BA.png) `#E8E5BA`|
+|Waffen SS Polizei Grün|A.MIG-0018|Acrylic|62|103|94|![#3E675E](https://placehold.co/15x15/3E675E/3E675E.png) `#3E675E`|
+|Russian Green 4BO|A.MIG-0019|Acrylic|81|81|51|![#515133](https://placehold.co/15x15/515133/515133.png) `#515133`|
+|Russian Brown 6K|A.MIG-0020|Acrylic|59|49|48|![#3B3130](https://placehold.co/15x15/3B3130/3B3130.png) `#3B3130`|
+|Russian Tan 7K|A.MIG-0021|Acrylic|109|94|67|![#6D5E43](https://placehold.co/15x15/6D5E43/6D5E43.png) `#6D5E43`|
+|Basic Protector Alkidno-Uretanovaya|A.MIG-0022|Acrylic|59|50|34|![#3B3222](https://placehold.co/15x15/3B3222/3B3222.png) `#3B3222`|
+|Protective Green FS 34227|A.MIG-0023|Acrylic|86|138|128|![#568A80](https://placehold.co/15x15/568A80/568A80.png) `#568A80`|
+|Washable White Camo|A.MIG-0024|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|US Modern Vehicles FS 33446|A.MIG-0025|Acrylic|190|161|126|![#BEA17E](https://placehold.co/15x15/BEA17E/BEA17E.png) `#BEA17E`|
+|German Sand Brown RAL 8031 F9|A.MIG-0026|Acrylic|193|155|137|![#C19B89](https://placehold.co/15x15/C19B89/C19B89.png) `#C19B89`|
+|German Sand Beige RAL 8031 F9|A.MIG-0027|Acrylic|187|169|117|![#BBA975](https://placehold.co/15x15/BBA975/BBA975.png) `#BBA975`|
+|German Grey Beige RAL 7050 F7|A.MIG-0028|Acrylic|123|116|102|![#7B7466](https://placehold.co/15x15/7B7466/7B7466.png) `#7B7466`|
+|Desert Sand|A.MIG-0029|Acrylic|188|167|118|![#BCA776](https://placehold.co/15x15/BCA776/BCA776.png) `#BCA776`|
+|Sand Yellow BS381C 361|A.MIG-0030|Acrylic|204|155|84|![#CC9B54](https://placehold.co/15x15/CC9B54/CC9B54.png) `#CC9B54`|
+|Spanish Green-Khaki|A.MIG-0031|Acrylic|80|71|48|![#504730](https://placehold.co/15x15/504730/504730.png) `#504730`|
+|Satin Black|A.MIG-0032|Acrylic|13|9|11|![#0D090B](https://placehold.co/15x15/0D090B/0D090B.png) `#0D090B`|
+|Rubber & Tires|A.MIG-0033|Acrylic|61|56|66|![#3D3842](https://placehold.co/15x15/3D3842/3D3842.png) `#3D3842`|
+|Rust Tracks FS 30111 BS435|A.MIG-0034|Acrylic|53|35|34|![#352322](https://placehold.co/15x15/352322/352322.png) `#352322`|
+|Dark Tracks|A.MIG-0035|Acrylic|8|6|12|![#08060C](https://placehold.co/15x15/08060C/08060C.png) `#08060C`|
+|Old Wood|A.MIG-0036|Acrylic|176|150|106|![#B0966A](https://placehold.co/15x15/B0966A/B0966A.png) `#B0966A`|
+|New Wood|A.MIG-0037|Acrylic|182|164|115|![#B6A473](https://placehold.co/15x15/B6A473/B6A473.png) `#B6A473`|
+|Light Wood|A.MIG-0038|Acrylic|175|163|127|![#AFA37F](https://placehold.co/15x15/AFA37F/AFA37F.png) `#AFA37F`|
+|Light Rust|A.MIG-0039|Acrylic|218|137|51|![#DA8933](https://placehold.co/15x15/DA8933/DA8933.png) `#DA8933`|
+|Medium Rust|A.MIG-0040|Acrylic|177|81|62|![#B1513E](https://placehold.co/15x15/B1513E/B1513E.png) `#B1513E`|
+|Dark Rust|A.MIG-0041|Acrylic|134|59|47|![#863B2F](https://placehold.co/15x15/863B2F/863B2F.png) `#863B2F`|
+|Old Rust|A.MIG-0042|Acrylic|67|37|40|![#432528](https://placehold.co/15x15/432528/432528.png) `#432528`|
+|Shadow Rust|A.MIG-0043|Acrylic|48|23|29|![#30171D](https://placehold.co/15x15/30171D/30171D.png) `#30171D`|
+|Chipping|A.MIG-0044|Acrylic|8|6|12|![#08060C](https://placehold.co/15x15/08060C/08060C.png) `#08060C`|
+|Gun Metal FS 3720 RAL 9007 RLM 03|A.MIG-0045|Acrylic|105|108|111|![#696C6F](https://placehold.co/15x15/696C6F/696C6F.png) `#696C6F`|
+|Matt Black FS 37038 RAL 9005 RLM 22|A.MIG-0046|Acrylic|34|31|33|![#221F21](https://placehold.co/15x15/221F21/221F21.png) `#221F21`|
+|Satin White|A.MIG-0047|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Yellow RAL 1023|A.MIG-0048|Acrylic|219|182|54|![#DBB636](https://placehold.co/15x15/DBB636/DBB636.png) `#DBB636`|
+|Red FS 31302 RA 3020 RLM 23|A.MIG-0049|Acrylic|184|50|48|![#B83230](https://placehold.co/15x15/B83230/B83230.png) `#B83230`|
+|Matt White FS 37925 RAL 9016 RLM 21|A.MIG-0050|Acrylic|253|254|255|![#FDFEFF](https://placehold.co/15x15/FDFEFF/FDFEFF.png) `#FDFEFF`|
+|Medium Light Green|A.MIG-0051|Acrylic|110|155|120|![#6E9B78](https://placehold.co/15x15/6E9B78/6E9B78.png) `#6E9B78`|
+|Deep Green|A.MIG-0052|Acrylic|9|68|48|![#094430](https://placehold.co/15x15/094430/094430.png) `#094430`|
+|Protective NC 1200|A.MIG-0053|Acrylic|31|51|58|![#1F333A](https://placehold.co/15x15/1F333A/1F333A.png) `#1F333A`|
+|Signal Green|A.MIG-0054|Acrylic|0|90|45|![#005A2D](https://placehold.co/15x15/005A2D/005A2D.png) `#005A2D`|
+|Oil Ochre|A.MIG-0055|Acrylic|194|164|85|![#C2A455](https://placehold.co/15x15/C2A455/C2A455.png) `#C2A455`|
+|Green Khaki KHS-5146 RLM 83|A.MIG-0056|Acrylic|84|81|61|![#54513D](https://placehold.co/15x15/54513D/54513D.png) `#54513D`|
+|Yellow Grey PKHV-4|A.MIG-0057|Acrylic|190|173|139|![#BEAD8B](https://placehold.co/15x15/BEAD8B/BEAD8B.png) `#BEAD8B`|
+|Light Green Khaki PKHV-512|A.MIG-0058|Acrylic|118|120|82|![#767852](https://placehold.co/15x15/767852/767852.png) `#767852`|
+|Grey FS 36251 KHV-16|A.MIG-0059|Acrylic|123|133|143|![#7B858F](https://placehold.co/15x15/7B858F/7B858F.png) `#7B858F`|
+|Pale Green|A.MIG-0060|Acrylic|61|101|59|![#3D653B](https://placehold.co/15x15/3D653B/3D653B.png) `#3D653B`|
+|Warm Sand Yellow|A.MIG-0061|Acrylic|201|171|91|![#C9AB5B](https://placehold.co/15x15/C9AB5B/C9AB5B.png) `#C9AB5B`|
+|French Blue|A.MIG-0062|Acrylic|52|102|115|![#346673](https://placehold.co/15x15/346673/346673.png) `#346673`|
+|Pale Grey FS 36480 RLM 76|A.MIG-0063|Acrylic|138|188|174|![#8ABCAE](https://placehold.co/15x15/8ABCAE/8ABCAE.png) `#8ABCAE`|
+|Earth Brown|A.MIG-0064|Acrylic|127|66|50|![#7F4232](https://placehold.co/15x15/7F4232/7F4232.png) `#7F4232`|
+|Forest Green FS 34102 RLM 62|A.MIG-0065|Acrylic|56|69|48|![#384530](https://placehold.co/15x15/384530/384530.png) `#384530`|
+|Faded Sinai Grey|A.MIG-0066|Acrylic|112|107|95|![#706B5F](https://placehold.co/15x15/706B5F/706B5F.png) `#706B5F`|
+|Light Sand Grey|A.MIG-0067|Acrylic|172|159|127|![#AC9F7F](https://placehold.co/15x15/AC9F7F/AC9F7F.png) `#AC9F7F`|
+|IDF Green|A.MIG-0068|Acrylic|62|79|59|![#3E4F3B](https://placehold.co/15x15/3E4F3B/3E4F3B.png) `#3E4F3B`|
+|Blue Green|A.MIG-0069|Acrylic|42|61|43|![#2A3D2B](https://placehold.co/15x15/2A3D2B/2A3D2B.png) `#2A3D2B`|
+|Medium Brown|A.MIG-0070|Acrylic|80|52|46|![#50342E](https://placehold.co/15x15/50342E/50342E.png) `#50342E`|
+|Khaki|A.MIG-0071|Acrylic|113|83|59|![#71533B](https://placehold.co/15x15/71533B/71533B.png) `#71533B`|
+|Dust|A.MIG-0072|Acrylic|142|136|115|![#8E8873](https://placehold.co/15x15/8E8873/8E8873.png) `#8E8873`|
+|Earth|A.MIG-0073|Acrylic|115|86|64|![#735640](https://placehold.co/15x15/735640/735640.png) `#735640`|
+|Green Moss|A.MIG-0074|Acrylic|103|102|64|![#676640](https://placehold.co/15x15/676640/676640.png) `#676640`|
+|Stone Grey|A.MIG-0075|Acrylic|167|172|173|![#A7ACAD](https://placehold.co/15x15/A7ACAD/A7ACAD.png) `#A7ACAD`|
+|Brown Soil|A.MIG-0076|Acrylic|107|70|61|![#6B463D](https://placehold.co/15x15/6B463D/6B463D.png) `#6B463D`|
+|Dull Green|A.MIG-0077|Acrylic|61|90|81|![#3D5A51](https://placehold.co/15x15/3D5A51/3D5A51.png) `#3D5A51`|
+|Ochre Earth|A.MIG-0078|Acrylic|184|136|95|![#B8885F](https://placehold.co/15x15/B8885F/B8885F.png) `#B8885F`|
+|Clay Brown|A.MIG-0079|Acrylic|102|59|43|![#663B2B](https://placehold.co/15x15/663B2B/663B2B.png) `#663B2B`|
+|Bright Green AMT-4|A.MIG-0080|Acrylic|90|124|72|![#5A7C48](https://placehold.co/15x15/5A7C48/5A7C48.png) `#5A7C48`|
+|US Olive Drab Vietnam Era FS 24087|A.MIG-0081|Acrylic|65|73|57|![#414939](https://placehold.co/15x15/414939/414939.png) `#414939`|
+|APC Interior Light Green|A.MIG-0082|Acrylic|129|157|134|![#819D86](https://placehold.co/15x15/819D86/819D86.png) `#819D86`|
+|Zashchitniy Zeleno XB 518|A.MIG-0083|Acrylic|76|77|55|![#4C4D37](https://placehold.co/15x15/4C4D37/4C4D37.png) `#4C4D37`|
+|NATO Green|A.MIG-0084|Acrylic|67|71|57|![#434739](https://placehold.co/15x15/434739/434739.png) `#434739`|
+|NATO Brown FS 30051 RAL 8027|A.MIG-0085|Acrylic|65|43|45|![#412B2D](https://placehold.co/15x15/412B2D/412B2D.png) `#412B2D`|
+|Blue RAL 5019|A.MIG-0086|Acrylic|35|96|141|![#23608D](https://placehold.co/15x15/23608D/23608D.png) `#23608D`|
+|Gelboliv RAL 6014|A.MIG-0087|Acrylic|66|70|55|![#424637](https://placehold.co/15x15/424637/424637.png) `#424637`|
+|Khaki Brown|A.MIG-0088|Acrylic|172|142|108|![#AC8E6C](https://placehold.co/15x15/AC8E6C/AC8E6C.png) `#AC8E6C`|
+|Matt Varnish|A.MIG-0089|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Satin Varnish|A.MIG-0090|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Glossy Varnish|A.MIG-0091|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Crystal Green|A.MIG-0092|Acrylic|0|64|49|![#004031](https://placehold.co/15x15/004031/004031.png) `#004031`|
+|Crystal Red|A.MIG-0093|Acrylic|134|59|47|![#863B2F](https://placehold.co/15x15/863B2F/863B2F.png) `#863B2F`|
+|Crystal Glass|A.MIG-0094|Acrylic|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Crystal Smoke|A.MIG-0095|Acrylic|34|31|33|![#221F21](https://placehold.co/15x15/221F21/221F21.png) `#221F21`|
+|Crystal Periscope Green|A.MIG-0096|Acrylic|26|123|68|![#1A7B44](https://placehold.co/15x15/1A7B44/1A7B44.png) `#1A7B44`|
+|Crystal Orange|A.MIG-0097|Acrylic|243|128|48|![#F38030](https://placehold.co/15x15/F38030/F38030.png) `#F38030`|
+|Crystal Light Blue|A.MIG-0098|Acrylic|0|133|182|![#0085B6](https://placehold.co/15x15/0085B6/0085B6.png) `#0085B6`|
+|Crystal Black Blue|A.MIG-0099|Acrylic|23|33|53|![#172135](https://placehold.co/15x15/172135/172135.png) `#172135`|
+|Ochre Brown|A.MIG-0102|Acrylic|157|132|87|![#9D8457](https://placehold.co/15x15/9D8457/9D8457.png) `#9D8457`|
+|Medium Blue|A.MIG-0103|Acrylic|55|62|113|![#373E71](https://placehold.co/15x15/373E71/373E71.png) `#373E71`|
+|Washable Black|A.MIG-0104|Acrylic|0|0|1|![#000001](https://placehold.co/15x15/000001/000001.png) `#000001`|
+|Washable Dust RAL 8000|A.MIG-0105|Acrylic|160|148|122|![#A0947A](https://placehold.co/15x15/A0947A/A0947A.png) `#A0947A`|
+|Washable Sand RAL 8020|A.MIG-0106|Acrylic|215|169|102|![#D7A966](https://placehold.co/15x15/D7A966/D7A966.png) `#D7A966`|
+|Washable Earth|A.MIG-0107|Acrylic|104|78|57|![#684E39](https://placehold.co/15x15/684E39/684E39.png) `#684E39`|
+|Washable Mud|A.MIG-0108|Acrylic|77|50|44|![#4D322C](https://placehold.co/15x15/4D322C/4D322C.png) `#4D322C`|
+|Washable Rust|A.MIG-0109|Acrylic|156|71|53|![#9C4735](https://placehold.co/15x15/9C4735/9C4735.png) `#9C4735`|
+|SCC 1A British Brown 1941-42 RLM 61|A.MIG-0110|Acrylic|51|32|30|![#33201E](https://placehold.co/15x15/33201E/33201E.png) `#33201E`|
+|SCC 2 British 1941-42 Service Drab|A.MIG-0111|Acrylic|81|72|57|![#514839](https://placehold.co/15x15/514839/514839.png) `#514839`|
+|SCC 15 British 1944-45 Olive Drab|A.MIG-0112|Acrylic|52|59|37|![#343B25](https://placehold.co/15x15/343B25/343B25.png) `#343B25`|
+|Khaki Green 3 British 1939-42|A.MIG-0113|Acrylic|106|94|74|![#6A5E4A](https://placehold.co/15x15/6A5E4A/6A5E4A.png) `#6A5E4A`|
+|Zimmerit Ochre Color|A.MIG-0114|Acrylic|141|131|114|![#8D8372](https://placehold.co/15x15/8D8372/8D8372.png) `#8D8372`|
+|Light Skin Tone|A.MIG-0115|Acrylic|238|203|169|![#EECBA9](https://placehold.co/15x15/EECBA9/EECBA9.png) `#EECBA9`|
+|Basic Skin Tone FS 31670|A.MIG-0116|Acrylic|226|180|165|![#E2B4A5](https://placehold.co/15x15/E2B4A5/E2B4A5.png) `#E2B4A5`|
+|Warm Skin Tone|A.MIG-0117|Acrylic|181|136|113|![#B58871](https://placehold.co/15x15/B58871/B58871.png) `#B58871`|
+|Burnt Sand|A.MIG-0118|Acrylic|125|91|58|![#7D5B3A](https://placehold.co/15x15/7D5B3A/7D5B3A.png) `#7D5B3A`|
+|Cold Gray FS 17865|A.MIG-0119|Acrylic|199|201|201|![#C7C9C9](https://placehold.co/15x15/C7C9C9/C7C9C9.png) `#C7C9C9`|
+|Light Brown-Gray|A.MIG-0120|Acrylic|213|210|208|![#D5D2D0](https://placehold.co/15x15/D5D2D0/D5D2D0.png) `#D5D2D0`|
+|Blood Red FS 11136 RAL 3002|A.MIG-0121|Acrylic|172|43|38|![#AC2B26](https://placehold.co/15x15/AC2B26/AC2B26.png) `#AC2B26`|
+|Bone|A.MIG-0122|Acrylic|236|240|222|![#ECF0DE](https://placehold.co/15x15/ECF0DE/ECF0DE.png) `#ECF0DE`|
+|Marine Blue|A.MIG-0123|Acrylic|13|72|120|![#0D4878](https://placehold.co/15x15/0D4878/0D4878.png) `#0D4878`|
+|Lime Green|A.MIG-0124|Acrylic|105|175|69|![#69AF45](https://placehold.co/15x15/69AF45/69AF45.png) `#69AF45`|
+|Gold Yellow FS 33655 RAL 1003 RLM 04|A.MIG-0125|Acrylic|228|179|44|![#E4B32C](https://placehold.co/15x15/E4B32C/E4B32C.png) `#E4B32C`|
+|Violet|A.MIG-0126|Acrylic|83|80|162|![#5350A2](https://placehold.co/15x15/5350A2/5350A2.png) `#5350A2`|
+|Purple FS 37142 RAL 4008|A.MIG-0127|Acrylic|136|91|166|![#885BA6](https://placehold.co/15x15/885BA6/885BA6.png) `#885BA6`|
+|Cyan|A.MIG-0128|Acrylic|0|173|239|![#00ADEF](https://placehold.co/15x15/00ADEF/00ADEF.png) `#00ADEF`|
+|Orange FS 32246|A.MIG-0129|Acrylic|230|116|38|![#E67426](https://placehold.co/15x15/E67426/E67426.png) `#E67426`|
+|Faded Yellow|A.MIG-0130|Acrylic|216|206|116|![#D8CE74](https://placehold.co/15x15/D8CE74/D8CE74.png) `#D8CE74`|
+|Real IDF Sinai Grey 82|A.MIG-0131|Acrylic|83|79|42|![#534F2A](https://placehold.co/15x15/534F2A/534F2A.png) `#534F2A`|
+|Real IDF Sinai Grey 73|A.MIG-0132|Acrylic|131|121|76|![#83794C](https://placehold.co/15x15/83794C/83794C.png) `#83794C`|
+|Red Leather|A.MIG-0133|Acrylic|100|59|42|![#643B2A](https://placehold.co/15x15/643B2A/643B2A.png) `#643B2A`|
+|Burnt Brown Red|A.MIG-0134|Acrylic|49|33|19|![#312113](https://placehold.co/15x15/312113/312113.png) `#312113`|
+|Burnt Cinnamon|A.MIG-0135|Acrylic|181|146|130|![#B59282](https://placehold.co/15x15/B59282/B59282.png) `#B59282`|
+|Desert Yellow FS 20400|A.MIG-0138|Acrylic|186|156|106|![#BA9C6A](https://placehold.co/15x15/BA9C6A/BA9C6A.png) `#BA9C6A`|
+|Red Earth|A.MIG-0139|Acrylic|139|84|73|![#8B5449](https://placehold.co/15x15/8B5449/8B5449.png) `#8B5449`|
+|Middlestone FS 33531|A.MIG-0200|Acrylic|203|189|172|![#CBBDAC](https://placehold.co/15x15/CBBDAC/CBBDAC.png) `#CBBDAC`|
+|Light Gray Green FS 34424|A.MIG-0201|Acrylic|162|192|165|![#A2C0A5](https://placehold.co/15x15/A2C0A5/A2C0A5.png) `#A2C0A5`|
+|Tan FS 30219|A.MIG-0202|Acrylic|124|94|68|![#7C5E44](https://placehold.co/15x15/7C5E44/7C5E44.png) `#7C5E44`|
+|Light Compass Ghost Gray FS 36375 RAL 7001|A.MIG-0203|Acrylic|154|181|184|![#9AB5B8](https://placehold.co/15x15/9AB5B8/9AB5B8.png) `#9AB5B8`|
+|Medium Gunship Gray FS 36118|A.MIG-0204|Acrylic|65|71|85|![#414755](https://placehold.co/15x15/414755/414755.png) `#414755`|
+|Dark Gull Gray FS 26231 BS638|A.MIG-0205|Acrylic|104|125|132|![#687D84](https://placehold.co/15x15/687D84/687D84.png) `#687D84`|
+|Dark green FS 34079 BS641 RLM 81|A.MIG-0206|Acrylic|72|81|53|![#485135](https://placehold.co/15x15/485135/485135.png) `#485135`|
+|Barley Grey FS 36314 BS626|A.MIG-0207|Acrylic|140|150|151|![#8C9697](https://placehold.co/15x15/8C9697/8C9697.png) `#8C9697`|
+|Dark Compass Ghost Grey FS 36320|A.MIG-0208|Acrylic|114|121|122|![#72797A](https://placehold.co/15x15/72797A/72797A.png) `#72797A`|
+|Light Gray FS 36495|A.MIG-0209|Acrylic|191|191|190|![#BFBFBE](https://placehold.co/15x15/BFBFBE/BFBFBE.png) `#BFBFBE`|
+|Gray Blue AMT-11 FS 35237|A.MIG-0210|Acrylic|103|125|138|![#677D8A](https://placehold.co/15x15/677D8A/677D8A.png) `#677D8A`|
+|Medium Grey FS 36270|A.MIG-0211|Acrylic|144|151|154|![#90979A](https://placehold.co/15x15/90979A/90979A.png) `#90979A`|
+|Silver Grey FS 26373 BS627|A.MIG-0212|Acrylic|152|157|160|![#989DA0](https://placehold.co/15x15/989DA0/989DA0.png) `#989DA0`|
+|Green FS 24277|A.MIG-0213|Acrylic|99|134|122|![#63867A](https://placehold.co/15x15/63867A/63867A.png) `#63867A`|
+|Green Slate RAL 7002 RLM 02|A.MIG-0217|Acrylic|61|69|62|![#3D453E](https://placehold.co/15x15/3D453E/3D453E.png) `#3D453E`|
+|Schwarzgrau RLM 66|A.MIG-0218|Acrylic|44|44|52|![#2C2C34](https://placehold.co/15x15/2C2C34/2C2C34.png) `#2C2C34`|
+|Interior Green FS 34226 BS283|A.MIG-0219|Acrylic|106|143|131|![#6A8F83](https://placehold.co/15x15/6A8F83/6A8F83.png) `#6A8F83`|
+|Zinc Chromate Green FS 34151|A.MIG-0220|Acrylic|99|110|77|![#636E4D](https://placehold.co/15x15/636E4D/636E4D.png) `#636E4D`|
+|Zinc Chromate Yellow FS 33481|A.MIG-0221|Acrylic|182|192|88|![#B6C058](https://placehold.co/15x15/B6C058/B6C058.png) `#B6C058`|
+|Sandgelb RLM 79|A.MIG-0222|Acrylic|188|148|72|![#BC9448](https://placehold.co/15x15/BC9448/BC9448.png) `#BC9448`|
+|Interior Turquoise Green|A.MIG-0223|Acrylic|27|132|106|![#1B846A](https://placehold.co/15x15/1B846A/1B846A.png) `#1B846A`|
+|Sky Line Blue A II FS 35260|A.MIG-0224|Acrylic|0|188|242|![#00BCF2](https://placehold.co/15x15/00BCF2/00BCF2.png) `#00BCF2`|
+|Gray FS 36622|A.MIG-0226|Acrylic|198|200|185|![#C6C8B9](https://placehold.co/15x15/C6C8B9/C6C8B9.png) `#C6C8B9`|
+|Sea Blue FS 25042 ANA 606|A.MIG-0227|Acrylic|36|37|48|![#242530](https://placehold.co/15x15/242530/242530.png) `#242530`|
+|Intermediate Blue FS 35164 RAL 7031 ANA 608|A.MIG-0228|Acrylic|89|97|108|![#59616C](https://placehold.co/15x15/59616C/59616C.png) `#59616C`|
+|Dark Grey Blue FS 15102|A.MIG-0229|Acrylic|47|57|104|![#2F3968](https://placehold.co/15x15/2F3968/2F3968.png) `#2F3968`|
+|Camo Green FS 35164 RAL 6020 RLM 82|A.MIG-0230|Acrylic|67|84|47|![#43542F](https://placehold.co/15x15/43542F/43542F.png) `#43542F`|
+|Hellblau FS 35352 RLM 65|A.MIG-0231|Acrylic|186|213|220|![#BAD5DC](https://placehold.co/15x15/BAD5DC/BAD5DC.png) `#BAD5DC`|
+|Schwartzgrün FS 34052 RAL 7022 RLM 70|A.MIG-0232|Acrylic|80|86|64|![#505640](https://placehold.co/15x15/505640/505640.png) `#505640`|
+|Dunkelgrün RLM 71|A.MIG-0233|Acrylic|49|60|43|![#313C2B](https://placehold.co/15x15/313C2B/313C2B.png) `#313C2B`|
+|Dark Grey AMT-12 FS 36152 RAL 7012|A.MIG-0235|Acrylic|85|93|101|![#555D65](https://placehold.co/15x15/555D65/555D65.png) `#555D65`|
+|Light grey FS 36293|A.MIG-0236|Acrylic|113|128|129|![#718081](https://placehold.co/15x15/718081/718081.png) `#718081`|
+|Dark Olive Drab FS 23070|A.MIG-0237|Acrylic|94|96|65|![#5E6041](https://placehold.co/15x15/5E6041/5E6041.png) `#5E6041`|
+|Medium Green FS 34092 ANA 612|A.MIG-0238|Acrylic|50|79|60|![#324F3C](https://placehold.co/15x15/324F3C/324F3C.png) `#324F3C`|
+|Neutral Grey FS 36122|A.MIG-0239|Acrylic|94|99|105|![#5E6369](https://placehold.co/15x15/5E6369/5E6369.png) `#5E6369`|
+|FS 34086 FS 34086 RAL 7009 ANA 613|A.MIG-0240|Acrylic|38|44|27|![#262C1B](https://placehold.co/15x15/262C1B/262C1B.png) `#262C1B`|
+|Light Gull Grey FS 36440 RAL 7038|A.MIG-0241|Acrylic|145|151|144|![#919790](https://placehold.co/15x15/919790/919790.png) `#919790`|
+|FS 37886|A.MIG-0242|Acrylic|237|239|217|![#EDEFD9](https://placehold.co/15x15/EDEFD9/EDEFD9.png) `#EDEFD9`|
+|Sky Type S BS210|A.MIG-0243|Acrylic|152|177|154|![#98B19A](https://placehold.co/15x15/98B19A/98B19A.png) `#98B19A`|
+|Duck Egg Green BS216|A.MIG-0244|Acrylic|144|166|117|![#90A675](https://placehold.co/15x15/90A675/90A675.png) `#90A675`|
+|Ocean Grey BS629|A.MIG-0245|Acrylic|96|109|117|![#606D75](https://placehold.co/15x15/606D75/606D75.png) `#606D75`|
+|Medium Sea Grey BS637|A.MIG-0246|Acrylic|132|147|150|![#849396](https://placehold.co/15x15/849396/849396.png) `#849396`|
+|Hellblau RLM 78|A.MIG-0247|Acrylic|118|150|152|![#769698](https://placehold.co/15x15/769698/769698.png) `#769698`|
+|Olivgrün FS 34083 RLM 80|A.MIG-0248|Acrylic|50|70|48|![#324630](https://placehold.co/15x15/324630/324630.png) `#324630`|
+|Light Blue FS 35550|A.MIG-0249|Acrylic|167|201|214|![#A7C9D6](https://placehold.co/15x15/A7C9D6/A7C9D6.png) `#A7C9D6`|
+|Night Blue Grey|A.MIG-0250|Acrylic|74|82|94|![#4A525E](https://placehold.co/15x15/4A525E/4A525E.png) `#4A525E`|
+|Russian Blue AMT-7|A.MIG-0251|Acrylic|48|114|124|![#30727C](https://placehold.co/15x15/30727C/30727C.png) `#30727C`|
+|Grey Brown AMT-1|A.MIG-0252|Acrylic|119|117|109|![#77756D](https://placehold.co/15x15/77756D/77756D.png) `#77756D`|
+|Graugrün RLM 74|A.MIG-0253|Acrylic|58|74|70|![#3A4A46](https://placehold.co/15x15/3A4A46/3A4A46.png) `#3A4A46`|
+|Grauviolett RLM 75|A.MIG-0254|Acrylic|113|120|119|![#717877](https://placehold.co/15x15/717877/717877.png) `#717877`|
+|Braunviolett RLM 81|A.MIG-0255|Acrylic|75|54|52|![#4B3634](https://placehold.co/15x15/4B3634/4B3634.png) `#4B3634`|
+|Graublau RLM 84|A.MIG-0256|Acrylic|173|180|126|![#ADB47E](https://placehold.co/15x15/ADB47E/ADB47E.png) `#ADB47E`|
+|Azure Blue|A.MIG-0257|Acrylic|116|128|168|![#7480A8](https://placehold.co/15x15/7480A8/7480A8.png) `#7480A8`|
+|IJA Grey Green|A.MIG-0258|Acrylic|140|140|138|![#8C8C8A](https://placehold.co/15x15/8C8C8A/8C8C8A.png) `#8C8C8A`|
+|IJA Light Grey Green|A.MIG-0259|Acrylic|120|138|138|![#788A8A](https://placehold.co/15x15/788A8A/788A8A.png) `#788A8A`|
+|IJA Kawasaki Green|A.MIG-0260|Acrylic|59|69|45|![#3B452D](https://placehold.co/15x15/3B452D/3B452D.png) `#3B452D`|
+|IJA Nakajima Green|A.MIG-0261|Acrylic|82|103|86|![#526756](https://placehold.co/15x15/526756/526756.png) `#526756`|
+|IJN Ash Grey|A.MIG-0262|Acrylic|182|178|140|![#B6B28C](https://placehold.co/15x15/B6B28C/B6B28C.png) `#B6B28C`|
+|IJN Medium Grey|A.MIG-0263|Acrylic|185|185|123|![#B9B97B](https://placehold.co/15x15/B9B97B/B9B97B.png) `#B9B97B`|
+|IJN Nakajima Dark Green|A.MIG-0264|Acrylic|49|89|65|![#315941](https://placehold.co/15x15/315941/315941.png) `#315941`|
+|IJN Mitsubishi Green|A.MIG-0265|Acrylic|87|112|54|![#577036](https://placehold.co/15x15/577036/577036.png) `#577036`|
+|RLM 63 Hellgrau|A.MIG-0266|Acrylic|190|192|179|![#BEC0B3](https://placehold.co/15x15/BEC0B3/BEC0B3.png) `#BEC0B3`|
+|Metallic Aotake Blue|A.MIG-0267|Acrylic|95|122|177|![#5F7AB1](https://placehold.co/15x15/5F7AB1/5F7AB1.png) `#5F7AB1`|
+|Aotake Green|A.MIG-0268|Acrylic|117|177|103|![#75B167](https://placehold.co/15x15/75B167/75B167.png) `#75B167`|
+|Nakajima Interior Green|A.MIG-0269|Acrylic|149|143|55|![#958F37](https://placehold.co/15x15/958F37/958F37.png) `#958F37`|
+|Mitsubishi Interior Green|A.MIG-0270|Acrylic|99|105|33|![#636921](https://placehold.co/15x15/636921/636921.png) `#636921`|
+|Air Superiority Blue FS 35450|A.MIG-0271|Acrylic|131|167|185|![#83A7B9](https://placehold.co/15x15/83A7B9/83A7B9.png) `#83A7B9`|
+|Giallo Mimetico 4|A.MIG-0272|Acrylic|155|128|81|![#9B8051](https://placehold.co/15x15/9B8051/9B8051.png) `#9B8051`|
+|Verde Anticorrosione|A.MIG-0273|Acrylic|139|169|135|![#8BA987](https://placehold.co/15x15/8BA987/8BA987.png) `#8BA987`|
+|Marrone Mimetico 1 FS 30118|A.MIG-0274|Acrylic|119|87|49|![#775731](https://placehold.co/15x15/775731/775731.png) `#775731`|
+|Giallo Mimetico 3 FS 33434|A.MIG-0275|Acrylic|194|169|76|![#C2A94C](https://placehold.co/15x15/C2A94C/C2A94C.png) `#C2A94C`|
+|Verde Oliva Scuro 2|A.MIG-0276|Acrylic|37|43|29|![#252B1D](https://placehold.co/15x15/252B1D/252B1D.png) `#252B1D`|
+|Green Grey FS 34159|A.MIG-0277|Acrylic|98|104|90|![#62685A](https://placehold.co/15x15/62685A/62685A.png) `#62685A`|
+|NATO Black|A.MIG-0278|Acrylic|50|45|41|![#322D29](https://placehold.co/15x15/322D29/322D29.png) `#322D29`|
+|Matt White FS 37925|ATOM-20000|ATOM|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Satin White (FS17925)|ATOM-20001|ATOM|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Cremeweiss (FS37855)|ATOM-20002|ATOM|238|239|197|![#EEEFC5](https://placehold.co/15x15/EEEFC5/EEEFC5.png) `#EEEFC5`|
+|Midgrey (FS26420)|ATOM-20003|ATOM|158|157|155|![#9E9D9B](https://placehold.co/15x15/9E9D9B/9E9D9B.png) `#9E9D9B`|
+|Wood (FS33522)|ATOM-20004|ATOM|179|163|135|![#B3A387](https://placehold.co/15x15/B3A387/B3A387.png) `#B3A387`|
+|Dunkelgelb DG III (FS27855)|ATOM-20005|ATOM|207|202|165|![#CFCAA5](https://placehold.co/15x15/CFCAA5/CFCAA5.png) `#CFCAA5`|
+|German Sand Beige RAL 8031 (FS13522)|ATOM-20006|ATOM|188|167|116|![#BCA774](https://placehold.co/15x15/BCA774/BCA774.png) `#BCA774`|
+|Desert Sand (FS27043)|ATOM-20007|ATOM|192|170|121|![#C0AA79](https://placehold.co/15x15/C0AA79/C0AA79.png) `#C0AA79`|
+|IDF Sand Grey 73 (FS13522)|ATOM-20008|ATOM|176|164|133|![#B0A485](https://placehold.co/15x15/B0A485/B0A485.png) `#B0A485`|
+|US Desert Tan (FS33446)|ATOM-20009|ATOM|189|160|125|![#BDA07D](https://placehold.co/15x15/BDA07D/BDA07D.png) `#BDA07D`|
+|Dunkelgelb DG I (FS33440)|ATOM-20010|ATOM|194|187|138|![#C2BB8A](https://placehold.co/15x15/C2BB8A/C2BB8A.png) `#C2BB8A`|
+|Sand Grey (FS30277)|ATOM-20011|ATOM|122|117|79|![#7A754F](https://placehold.co/15x15/7A754F/7A754F.png) `#7A754F`|
+|Dunkelgelb (FS30266)|ATOM-20012|ATOM|142|132|106|![#8E846A](https://placehold.co/15x15/8E846A/8E846A.png) `#8E846A`|
+|Zinc Chromate Yellow (FS33481)|ATOM-20013|ATOM|166|144|76|![#A6904C](https://placehold.co/15x15/A6904C/A6904C.png) `#A6904C`|
+|Ochre (FS33793)|ATOM-20014|ATOM|176|175|142|![#B0AF8E](https://placehold.co/15x15/B0AF8E/B0AF8E.png) `#B0AF8E`|
+|Gelbbraun 8020 (FS33481)|ATOM-20015|ATOM|225|200|129|![#E1C881](https://placehold.co/15x15/E1C881/E1C881.png) `#E1C881`|
+|Faded Yellow|ATOM-20016|ATOM|212|206|131|![#D4CE83](https://placehold.co/15x15/D4CE83/D4CE83.png) `#D4CE83`|
+|Lemon Yellow (FS33655)|ATOM-20017|ATOM|234|197|84|![#EAC554](https://placehold.co/15x15/EAC554/EAC554.png) `#EAC554`|
+|Yellow (FS33591)|ATOM-20018|ATOM|251|214|45|![#FBD62D](https://placehold.co/15x15/FBD62D/FBD62D.png) `#FBD62D`|
+|Sunny Yellow (FS33538)|ATOM-20019|ATOM|252|217|84|![#FCD954](https://placehold.co/15x15/FCD954/FCD954.png) `#FCD954`|
+|Gold Yellow (FS33432)|ATOM-20020|ATOM|252|189|46|![#FCBD2E](https://placehold.co/15x15/FCBD2E/FCBD2E.png) `#FCBD2E`|
+|Sand Yellow (FS33637)|ATOM-20021|ATOM|212|167|92|![#D4A75C](https://placehold.co/15x15/D4A75C/D4A75C.png) `#D4A75C`|
+|Mustard (FS33275)|ATOM-20022|ATOM|211|167|91|![#D3A75B](https://placehold.co/15x15/D3A75B/D3A75B.png) `#D3A75B`|
+|Light Rust|ATOM-20023|ATOM|238|158|45|![#EE9E2D](https://placehold.co/15x15/EE9E2D/EE9E2D.png) `#EE9E2D`|
+|Sandgelb RLM79 (FS33448)|ATOM-20024|ATOM|190|152|75|![#BE984B](https://placehold.co/15x15/BE984B/BE984B.png) `#BE984B`|
+|Khaki Green (FS24552)|ATOM-20025|ATOM|183|187|120|![#B7BB78](https://placehold.co/15x15/B7BB78/B7BB78.png) `#B7BB78`|
+|Bright Orange (FS22510)|ATOM-20026|ATOM|247|154|72|![#F79A48](https://placehold.co/15x15/F79A48/F79A48.png) `#F79A48`|
+|Orange (FS32246)|ATOM-20027|ATOM|234|119|43|![#EA772B](https://placehold.co/15x15/EA772B/EA772B.png) `#EA772B`|
+|Scarlet Red (FS12197)|ATOM-20028|ATOM|193|53|39|![#C13527](https://placehold.co/15x15/C13527/C13527.png) `#C13527`|
+|Red (FS31302)|ATOM-20029|ATOM|219|47|39|![#DB2F27](https://placehold.co/15x15/DB2F27/DB2F27.png) `#DB2F27`|
+|Imperial Red (FS21105)|ATOM-20030|ATOM|201|94|89|![#C95E59](https://placehold.co/15x15/C95E59/C95E59.png) `#C95E59`|
+|Blood Red (FS11136)|ATOM-20031|ATOM|168|47|45|![#A82F2D](https://placehold.co/15x15/A82F2D/A82F2D.png) `#A82F2D`|
+|Carmine (FS22246)|ATOM-20032|ATOM|143|41|32|![#8F2920](https://placehold.co/15x15/8F2920/8F2920.png) `#8F2920`|
+|Magenta|ATOM-20033|ATOM|221|92|162|![#DD5CA2](https://placehold.co/15x15/DD5CA2/DD5CA2.png) `#DD5CA2`|
+|Fucsia|ATOM-20034|ATOM|195|54|141|![#C3368D](https://placehold.co/15x15/C3368D/C3368D.png) `#C3368D`|
+|Coral Pink (FS21158)|ATOM-20035|ATOM|165|26|31|![#A51A1F](https://placehold.co/15x15/A51A1F/A51A1F.png) `#A51A1F`|
+|Vintage Pink (FS21302)|ATOM-20036|ATOM|169|92|101|![#A95C65](https://placehold.co/15x15/A95C65/A95C65.png) `#A95C65`|
+|Dark Nude Pink (FS21433)|ATOM-20037|ATOM|159|125|129|![#9F7D81](https://placehold.co/15x15/9F7D81/9F7D81.png) `#9F7D81`|
+|Glacier Pink (FS21575)|ATOM-20038|ATOM|213|183|178|![#D5B7B2](https://placehold.co/15x15/D5B7B2/D5B7B2.png) `#D5B7B2`|
+|Pink Flesh (FS2268)|ATOM-20039|ATOM|248|191|190|![#F8BFBE](https://placehold.co/15x15/F8BFBE/F8BFBE.png) `#F8BFBE`|
+|Light Pink Flesh (FS23531)|ATOM-20040|ATOM|245|217|204|![#F5D9CC](https://placehold.co/15x15/F5D9CC/F5D9CC.png) `#F5D9CC`|
+|Basic Skin (FS36613)|ATOM-20041|ATOM|235|188|173|![#EBBCAD](https://placehold.co/15x15/EBBCAD/EBBCAD.png) `#EBBCAD`|
+|Light Skin (FS23564)|ATOM-20042|ATOM|223|196|168|![#DFC4A8](https://placehold.co/15x15/DFC4A8/DFC4A8.png) `#DFC4A8`|
+|Warm Skin (FS20400)|ATOM-20043|ATOM|171|131|108|![#AB836C](https://placehold.co/15x15/AB836C/AB836C.png) `#AB836C`|
+|Beige Pink|ATOM-20044|ATOM|247|164|114|![#F7A472](https://placehold.co/15x15/F7A472/F7A472.png) `#F7A472`|
+|Rust (FS12215)|ATOM-20045|ATOM|179|89|57|![#B35939](https://placehold.co/15x15/B35939/B35939.png) `#B35939`|
+|Rotbraun (FS11328)|ATOM-20046|ATOM|125|51|25|![#7D3319](https://placehold.co/15x15/7D3319/7D3319.png) `#7D3319`|
+|Dark Rust (FS30109)|ATOM-20047|ATOM|110|37|21|![#6E2515](https://placehold.co/15x15/6E2515/6E2515.png) `#6E2515`|
+|Clay Brown (FS30215)|ATOM-20048|ATOM|88|49|22|![#583116](https://placehold.co/15x15/583116/583116.png) `#583116`|
+|British Uniform|ATOM-20049|ATOM|130|107|39|![#826B27](https://placehold.co/15x15/826B27/826B27.png) `#826B27`|
+|Dark Wood (FS30145)|ATOM-20050|ATOM|90|77|56|![#5A4D38](https://placehold.co/15x15/5A4D38/5A4D38.png) `#5A4D38`|
+|Earth (FS30219)|ATOM-20051|ATOM|105|81|57|![#695139](https://placehold.co/15x15/695139/695139.png) `#695139`|
+|Earth Brown (FS30117)|ATOM-20052|ATOM|120|67|43|![#78432B](https://placehold.co/15x15/78432B/78432B.png) `#78432B`|
+|Red Brick|ATOM-20053|ATOM|120|62|31|![#783E1F](https://placehold.co/15x15/783E1F/783E1F.png) `#783E1F`|
+|Old Rust (FS20100)|ATOM-20054|ATOM|101|69|50|![#654532](https://placehold.co/15x15/654532/654532.png) `#654532`|
+|Umber Brown (FS30111)|ATOM-20055|ATOM|99|65|60|![#63413C](https://placehold.co/15x15/63413C/63413C.png) `#63413C`|
+|Burnt Brown (FS30097)|ATOM-20056|ATOM|50|36|16|![#322410](https://placehold.co/15x15/322410/322410.png) `#322410`|
+|Brown (FS30140)|ATOM-20057|ATOM|72|47|37|![#482F25](https://placehold.co/15x15/482F25/482F25.png) `#482F25`|
+|Leather|ATOM-20058|ATOM|60|36|30|![#3C241E](https://placehold.co/15x15/3C241E/3C241E.png) `#3C241E`|
+|Braunviolett RLM81 (FS30045)|ATOM-20059|ATOM|73|52|50|![#493432](https://placehold.co/15x15/493432/493432.png) `#493432`|
+|Coffee Brown|ATOM-20060|ATOM|97|64|64|![#614040](https://placehold.co/15x15/614040/614040.png) `#614040`|
+|NATO Brown (FS30051)|ATOM-20061|ATOM|55|37|34|![#372522](https://placehold.co/15x15/372522/372522.png) `#372522`|
+|Schokobraun (FS30059)|ATOM-20062|ATOM|67|40|38|![#432826](https://placehold.co/15x15/432826/432826.png) `#432826`|
+|Black Brown|ATOM-20063|ATOM|38|21|18|![#261512](https://placehold.co/15x15/261512/261512.png) `#261512`|
+|Chipping (FS30051)|ATOM-20064|ATOM|28|5|13|![#1C050D](https://placehold.co/15x15/1C050D/1C050D.png) `#1C050D`|
+|Dark Olive Drab (FS34094)|ATOM-20065|ATOM|53|54|28|![#35361C](https://placehold.co/15x15/35361C/35361C.png) `#35361C`|
+|NATO Green (FS34094)|ATOM-20066|ATOM|56|67|50|![#384332](https://placehold.co/15x15/384332/384332.png) `#384332`|
+|Olivgrün Dark (FS34096)|ATOM-20067|ATOM|40|56|35|![#283823](https://placehold.co/15x15/283823/283823.png) `#283823`|
+|IJA Kawasaki Green|ATOM-20068|ATOM|47|64|42|![#2F402A](https://placehold.co/15x15/2F402A/2F402A.png) `#2F402A`|
+|Olive Drab (FS34087)|ATOM-20069|ATOM|72|75|46|![#484B2E](https://placehold.co/15x15/484B2E/484B2E.png) `#484B2E`|
+|Sinai Grey (FS34151)|ATOM-20070|ATOM|89|91|53|![#595B35](https://placehold.co/15x15/595B35/595B35.png) `#595B35`|
+|Russian Green 4BO|ATOM-20071|ATOM|69|77|42|![#454D2A](https://placehold.co/15x15/454D2A/454D2A.png) `#454D2A`|
+|Dark Olive Green (FS34130)|ATOM-20072|ATOM|83|88|36|![#535824](https://placehold.co/15x15/535824/535824.png) `#535824`|
+|Yellow Green (FS34259)|ATOM-20073|ATOM|119|128|56|![#778038](https://placehold.co/15x15/778038/778038.png) `#778038`|
+|Zinc Chromate Green|ATOM-20074|ATOM|56|80|46|![#38502E](https://placehold.co/15x15/38502E/38502E.png) `#38502E`|
+|Hellgrün / Chromate Green (FS34095)|ATOM-20075|ATOM|54|76|44|![#364C2C](https://placehold.co/15x15/364C2C/364C2C.png) `#364C2C`|
+|IJA Nakajima Green (FS34102)|ATOM-20076|ATOM|71|98|83|![#476253](https://placehold.co/15x15/476253/476253.png) `#476253`|
+|Dunkelgrün RLM81 (FS34079)|ATOM-20077|ATOM|62|78|46|![#3E4E2E](https://placehold.co/15x15/3E4E2E/3E4E2E.png) `#3E4E2E`|
+|Grau RLM02|ATOM-20078|ATOM|102|104|99|![#666863](https://placehold.co/15x15/666863/666863.png) `#666863`|
+|Olivgrün (FS34082)|ATOM-20079|ATOM|67|80|53|![#435035](https://placehold.co/15x15/435035/435035.png) `#435035`|
+|Field Grey (FS34097)|ATOM-20080|ATOM|82|100|86|![#526456](https://placehold.co/15x15/526456/526456.png) `#526456`|
+|Resedagrün (FS34227)|ATOM-20081|ATOM|86|111|63|![#566F3F](https://placehold.co/15x15/566F3F/566F3F.png) `#566F3F`|
+|Pacific Green (FS34138)|ATOM-20082|ATOM|138|173|103|![#8AAD67](https://placehold.co/15x15/8AAD67/8AAD67.png) `#8AAD67`|
+|Green Base (FS34082)|ATOM-20083|ATOM|69|95|59|![#455F3B](https://placehold.co/15x15/455F3B/455F3B.png) `#455F3B`|
+|Bright Green (FS34138)|ATOM-20084|ATOM|90|125|66|![#5A7D42](https://placehold.co/15x15/5A7D42/5A7D42.png) `#5A7D42`|
+|Faded Green (FS34449)|ATOM-20085|ATOM|163|196|131|![#A3C483](https://placehold.co/15x15/A3C483/A3C483.png) `#A3C483`|
+|Duck Egg Green (FS34491)|ATOM-20086|ATOM|165|183|135|![#A5B787](https://placehold.co/15x15/A5B787/A5B787.png) `#A5B787`|
+|Bile Green (FS35540)|ATOM-20087|ATOM|199|204|111|![#C7CC6F](https://placehold.co/15x15/C7CC6F/C7CC6F.png) `#C7CC6F`|
+|Pistachio|ATOM-20088|ATOM|184|190|52|![#B8BE34](https://placehold.co/15x15/B8BE34/B8BE34.png) `#B8BE34`|
+|Lime Green|ATOM-20089|ATOM|196|219|94|![#C4DB5E](https://placehold.co/15x15/C4DB5E/C4DB5E.png) `#C4DB5E`|
+|Troll Green|ATOM-20090|ATOM|43|130|71|![#2B8247](https://placehold.co/15x15/2B8247/2B8247.png) `#2B8247`|
+|Fern Green (FS34115)|ATOM-20091|ATOM|2|91|48|![#025B30](https://placehold.co/15x15/025B30/025B30.png) `#025B30`|
+|Dark Green (FS34062)|ATOM-20092|ATOM|0|67|46|![#00432E](https://placehold.co/15x15/00432E/00432E.png) `#00432E`|
+|Forest Green|ATOM-20093|ATOM|0|84|55|![#005437](https://placehold.co/15x15/005437/005437.png) `#005437`|
+|Phtalo Green|ATOM-20094|ATOM|49|79|65|![#314F41](https://placehold.co/15x15/314F41/314F41.png) `#314F41`|
+|IJN Mitsubishi Green|ATOM-20095|ATOM|77|107|58|![#4D6B3A](https://placehold.co/15x15/4D6B3A/4D6B3A.png) `#4D6B3A`|
+|IJN Nakajima Dark Green|ATOM-20096|ATOM|38|88|66|![#265842](https://placehold.co/15x15/265842/265842.png) `#265842`|
+|Atlantic Green|ATOM-20097|ATOM|89|103|93|![#59675D](https://placehold.co/15x15/59675D/59675D.png) `#59675D`|
+|Deep Green|ATOM-20098|ATOM|17|43|38|![#112B26](https://placehold.co/15x15/112B26/112B26.png) `#112B26`|
+|Russian Green Uniform (FS14077)|ATOM-20099|ATOM|38|71|61|![#26473D](https://placehold.co/15x15/26473D/26473D.png) `#26473D`|
+|Green Grey (FS34172)|ATOM-20100|ATOM|66|92|87|![#425C57](https://placehold.co/15x15/425C57/425C57.png) `#425C57`|
+|Schwartzgrün RLM70 (FS34052)|ATOM-20101|ATOM|75|81|59|![#4B513B](https://placehold.co/15x15/4B513B/4B513B.png) `#4B513B`|
+|Ocean Blue (FS25042)|ATOM-20102|ATOM|18|30|57|![#121E39](https://placehold.co/15x15/121E39/121E39.png) `#121E39`|
+|Marine Blue (FS35042)|ATOM-20103|ATOM|3|54|83|![#033653](https://placehold.co/15x15/033653/033653.png) `#033653`|
+|Bluish Grey (FS35189)|ATOM-20104|ATOM|61|74|97|![#3D4A61](https://placehold.co/15x15/3D4A61/3D4A61.png) `#3D4A61`|
+|French Blue (FS35109)|ATOM-20105|ATOM|45|95|106|![#2D5F6A](https://placehold.co/15x15/2D5F6A/2D5F6A.png) `#2D5F6A`|
+|Navy Blue (FS35231)|ATOM-20106|ATOM|88|114|150|![#587296](https://placehold.co/15x15/587296/587296.png) `#587296`|
+|Uniform Blue (FS15123)|ATOM-20107|ATOM|61|106|148|![#3D6A94](https://placehold.co/15x15/3D6A94/3D6A94.png) `#3D6A94`|
+|Prussian Blue (FS25056)|ATOM-20108|ATOM|46|70|110|![#2E466E](https://placehold.co/15x15/2E466E/2E466E.png) `#2E466E`|
+|Deep Cyan|ATOM-20109|ATOM|14|151|213|![#0E97D5](https://placehold.co/15x15/0E97D5/0E97D5.png) `#0E97D5`|
+|Blue|ATOM-20110|ATOM|33|116|186|![#2174BA](https://placehold.co/15x15/2174BA/2174BA.png) `#2174BA`|
+|Cyan|ATOM-20111|ATOM|118|189|219|![#76BDDB](https://placehold.co/15x15/76BDDB/76BDDB.png) `#76BDDB`|
+|Bright Blue (FS35260)|ATOM-20112|ATOM|0|184|237|![#00B8ED](https://placehold.co/15x15/00B8ED/00B8ED.png) `#00B8ED`|
+|Green Blue|ATOM-20113|ATOM|60|140|159|![#3C8C9F](https://placehold.co/15x15/3C8C9F/3C8C9F.png) `#3C8C9F`|
+|Turquoise Green|ATOM-20114|ATOM|14|153|129|![#0E9981](https://placehold.co/15x15/0E9981/0E9981.png) `#0E9981`|
+|Jade Green|ATOM-20115|ATOM|1|184|167|![#01B8A7](https://placehold.co/15x15/01B8A7/01B8A7.png) `#01B8A7`|
+|Aquamarine|ATOM-20116|ATOM|84|195|190|![#54C3BE](https://placehold.co/15x15/54C3BE/54C3BE.png) `#54C3BE`|
+|Duck Blue|ATOM-20117|ATOM|9|116|142|![#09748E](https://placehold.co/15x15/09748E/09748E.png) `#09748E`|
+|Sapphire Blue|ATOM-20118|ATOM|168|191|226|![#A8BFE2](https://placehold.co/15x15/A8BFE2/A8BFE2.png) `#A8BFE2`|
+|Azure Blue|ATOM-20119|ATOM|101|130|173|![#6582AD](https://placehold.co/15x15/6582AD/6582AD.png) `#6582AD`|
+|Baby Blue|ATOM-20120|ATOM|32|151|168|![#2097A8](https://placehold.co/15x15/2097A8/2097A8.png) `#2097A8`|
+|Air Superiority Blue (FS35450)|ATOM-20121|ATOM|148|192|209|![#94C0D1](https://placehold.co/15x15/94C0D1/94C0D1.png) `#94C0D1`|
+|Light Blue (FS35550)|ATOM-20122|ATOM|184|213|226|![#B8D5E2](https://placehold.co/15x15/B8D5E2/B8D5E2.png) `#B8D5E2`|
+|Cold Gray (FS36628)|ATOM-20123|ATOM|207|211|212|![#CFD3D4](https://placehold.co/15x15/CFD3D4/CFD3D4.png) `#CFD3D4`|
+|Light Gray (FS36495)|ATOM-20124|ATOM|184|190|192|![#B8BEC0](https://placehold.co/15x15/B8BEC0/B8BEC0.png) `#B8BEC0`|
+|Light Gray Green (FS34424)|ATOM-20125|ATOM|158|190|161|![#9EBEA1](https://placehold.co/15x15/9EBEA1/9EBEA1.png) `#9EBEA1`|
+|Hellblau RLM78 (FS35414)|ATOM-20126|ATOM|113|147|150|![#719396](https://placehold.co/15x15/719396/719396.png) `#719396`|
+|Hellblau RLM65 (FS35352)|ATOM-20127|ATOM|184|213|220|![#B8D5DC](https://placehold.co/15x15/B8D5DC/B8D5DC.png) `#B8D5DC`|
+|Interior Light Green (FS34226)|ATOM-20128|ATOM|121|152|129|![#799881](https://placehold.co/15x15/799881/799881.png) `#799881`|
+|Light Ghost Gray (FS36375)|ATOM-20129|ATOM|151|179|182|![#97B3B6](https://placehold.co/15x15/97B3B6/97B3B6.png) `#97B3B6`|
+|Pale Grey RLM76 (FS36480)|ATOM-20130|ATOM|158|188|181|![#9EBCB5](https://placehold.co/15x15/9EBCB5/9EBCB5.png) `#9EBCB5`|
+|Seal Grey (FS36314)|ATOM-20131|ATOM|135|145|146|![#879192](https://placehold.co/15x15/879192/879192.png) `#879192`|
+|Stone Grey|ATOM-20132|ATOM|160|166|169|![#A0A6A9](https://placehold.co/15x15/A0A6A9/A0A6A9.png) `#A0A6A9`|
+|Dark Ghost Gray (FS36320)|ATOM-20133|ATOM|104|111|112|![#686F70](https://placehold.co/15x15/686F70/686F70.png) `#686F70`|
+|Blue Gray (FS35237)|ATOM-20134|ATOM|93|117|132|![#5D7584](https://placehold.co/15x15/5D7584/5D7584.png) `#5D7584`|
+|Grey (FS36251)|ATOM-20135|ATOM|115|124|133|![#737C85](https://placehold.co/15x15/737C85/737C85.png) `#737C85`|
+|Intermediate Blue (FS35164)|ATOM-20136|ATOM|68|80|99|![#445063](https://placehold.co/15x15/445063/445063.png) `#445063`|
+|Ocean Grey (FS36270)|ATOM-20137|ATOM|94|108|116|![#5E6C74](https://placehold.co/15x15/5E6C74/5E6C74.png) `#5E6C74`|
+|IJA Light Grey Green (FS36622)|ATOM-20138|ATOM|99|133|135|![#638587](https://placehold.co/15x15/638587/638587.png) `#638587`|
+|Nakajima Interior Green|ATOM-20139|ATOM|146|146|128|![#929280](https://placehold.co/15x15/929280/929280.png) `#929280`|
+|Sky Green (FS24504)|ATOM-20140|ATOM|150|176|153|![#96B099](https://placehold.co/15x15/96B099/96B099.png) `#96B099`|
+|IJN Ash Grey (FS30372)|ATOM-20141|ATOM|173|173|135|![#ADAD87](https://placehold.co/15x15/ADAD87/ADAD87.png) `#ADAD87`|
+|IJA Grey Green (FS36440)|ATOM-20142|ATOM|142|149|143|![#8E958F](https://placehold.co/15x15/8E958F/8E958F.png) `#8E958F`|
+|Dust|ATOM-20143|ATOM|138|133|109|![#8A856D](https://placehold.co/15x15/8A856D/8A856D.png) `#8A856D`|
+|Zimmerit|ATOM-20144|ATOM|140|129|112|![#8C8170](https://placehold.co/15x15/8C8170/8C8170.png) `#8C8170`|
+|Neutral Gray (FS36122)|ATOM-20145|ATOM|102|108|110|![#666C6E](https://placehold.co/15x15/666C6E/666C6E.png) `#666C6E`|
+|Dark Grey (FS36152)|ATOM-20146|ATOM|83|92|101|![#535C65](https://placehold.co/15x15/535C65/535C65.png) `#535C65`|
+|Grauviolett RLM75 (FS26295)|ATOM-20147|ATOM|122|125|133|![#7A7D85](https://placehold.co/15x15/7A7D85/7A7D85.png) `#7A7D85`|
+|Shadow Grey (FS36118)|ATOM-20148|ATOM|57|63|78|![#393F4E](https://placehold.co/15x15/393F4E/393F4E.png) `#393F4E`|
+|Grey Brown|ATOM-20149|ATOM|133|127|129|![#857F81](https://placehold.co/15x15/857F81/857F81.png) `#857F81`|
+|Violet|ATOM-20150|ATOM|72|61|152|![#483D98](https://placehold.co/15x15/483D98/483D98.png) `#483D98`|
+|Purple (FS37142)|ATOM-20151|ATOM|135|90|164|![#875AA4](https://placehold.co/15x15/875AA4/875AA4.png) `#875AA4`|
+|Amethyst|ATOM-20152|ATOM|135|84|162|![#8754A2](https://placehold.co/15x15/8754A2/8754A2.png) `#8754A2`|
+|Orchid|ATOM-20153|ATOM|146|89|138|![#92598A](https://placehold.co/15x15/92598A/92598A.png) `#92598A`|
+|Light Plum|ATOM-20154|ATOM|165|118|180|![#A576B4](https://placehold.co/15x15/A576B4/A576B4.png) `#A576B4`|
+|Mauve|ATOM-20155|ATOM|123|121|165|![#7B79A5](https://placehold.co/15x15/7B79A5/7B79A5.png) `#7B79A5`|
+|Putrid Flesh|ATOM-20156|ATOM|130|123|128|![#827B80](https://placehold.co/15x15/827B80/827B80.png) `#827B80`|
+|Graugrün RLM74 (FS14077)|ATOM-20157|ATOM|61|72|73|![#3D4849](https://placehold.co/15x15/3D4849/3D4849.png) `#3D4849`|
+|Schwartzgrau RLM66|ATOM-20158|ATOM|44|40|50|![#2C2832](https://placehold.co/15x15/2C2832/2C2832.png) `#2C2832`|
+|Rubber & Tires|ATOM-20159|ATOM|55|49|60|![#37313C](https://placehold.co/15x15/37313C/37313C.png) `#37313C`|
+|Dunkelgrau RAL7021 (FS26081)|ATOM-20160|ATOM|39|42|54|![#272A36](https://placehold.co/15x15/272A36/272A36.png) `#272A36`|
+|Nato Black|ATOM-20161|ATOM|33|37|40|![#212528](https://placehold.co/15x15/212528/212528.png) `#212528`|
+|Satin Black|ATOM-20162|ATOM|13|18|22|![#0D1216](https://placehold.co/15x15/0D1216/0D1216.png) `#0D1216`|
+|Matt Black (FS37038)|ATOM-20163|ATOM|9|16|20|![#091014](https://placehold.co/15x15/091014/091014.png) `#091014`|
+|Metallic Silver|ATOM-20164|ATOM|196|196|196|![#C4C4C4](https://placehold.co/15x15/C4C4C4/C4C4C4.png) `#C4C4C4`|
+|Metallic Aluminium|ATOM-20165|ATOM|207|211|212|![#CFD3D4](https://placehold.co/15x15/CFD3D4/CFD3D4.png) `#CFD3D4`|
+|Metallic Steel|ATOM-20166|ATOM|174|178|179|![#AEB2B3](https://placehold.co/15x15/AEB2B3/AEB2B3.png) `#AEB2B3`|
+|Metallic Gun Metal|ATOM-20167|ATOM|110|116|119|![#6E7477](https://placehold.co/15x15/6E7477/6E7477.png) `#6E7477`|
+|Metallic Black|ATOM-20168|ATOM|10|10|8|![#0A0A08](https://placehold.co/15x15/0A0A08/0A0A08.png) `#0A0A08`|
+|Metallic Burnt Iron|ATOM-20169|ATOM|74|62|52|![#4A3E34](https://placehold.co/15x15/4A3E34/4A3E34.png) `#4A3E34`|
+|Metallic Copper|ATOM-20170|ATOM|185|101|56|![#B96538](https://placehold.co/15x15/B96538/B96538.png) `#B96538`|
+|Metallic Gold Pink|ATOM-20171|ATOM|245|208|129|![#F5D081](https://placehold.co/15x15/F5D081/F5D081.png) `#F5D081`|
+|Metallic Gold|ATOM-20172|ATOM|177|161|101|![#B1A165](https://placehold.co/15x15/B1A165/B1A165.png) `#B1A165`|
+|Metallic Brass|ATOM-20173|ATOM|176|158|126|![#B09E7E](https://placehold.co/15x15/B09E7E/B09E7E.png) `#B09E7E`|
+|Metallic Red|ATOM-20174|ATOM|209|75|53|![#D14B35](https://placehold.co/15x15/D14B35/D14B35.png) `#D14B35`|
+|Metallic Aotake Green|ATOM-20175|ATOM|112|163|127|![#70A37F](https://placehold.co/15x15/70A37F/70A37F.png) `#70A37F`|
+|Metallic Aotake Blue|ATOM-20176|ATOM|100|140|200|![#648CC8](https://placehold.co/15x15/648CC8/648CC8.png) `#648CC8`|
+|Washable White|ATOM-20177|ATOM|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Washable Dust|ATOM-20178|ATOM|148|124|86|![#947C56](https://placehold.co/15x15/947C56/947C56.png) `#947C56`|
+|Washable Sand|ATOM-20179|ATOM|208|172|117|![#D0AC75](https://placehold.co/15x15/D0AC75/D0AC75.png) `#D0AC75`|
+|Pure White|A.MIG-0300|Cobra Motor|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Off White|A.MIG-0301|Cobra Motor|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Beige Leather|A.MIG-0302|Cobra Motor|227|199|160|![#E3C7A0](https://placehold.co/15x15/E3C7A0/E3C7A0.png) `#E3C7A0`|
+|Pale Yellow|A.MIG-0303|Cobra Motor|211|201|164|![#D3C9A4](https://placehold.co/15x15/D3C9A4/D3C9A4.png) `#D3C9A4`|
+|Racing Yellow|A.MIG-0304|Cobra Motor|242|229|42|![#F2E52A](https://placehold.co/15x15/F2E52A/F2E52A.png) `#F2E52A`|
+|Giallio Modena|A.MIG-0305|Cobra Motor|244|216|33|![#F4D821](https://placehold.co/15x15/F4D821/F4D821.png) `#F4D821`|
+|Rb Yellow|A.MIG-0306|Cobra Motor|248|207|60|![#F8CF3C](https://placehold.co/15x15/F8CF3C/F8CF3C.png) `#F8CF3C`|
+|Repsol Orange|A.MIG-0307|Cobra Motor|249|188|53|![#F9BC35](https://placehold.co/15x15/F9BC35/F9BC35.png) `#F9BC35`|
+|Gulf Orange|A.MIG-0308|Cobra Motor|247|166|84|![#F7A654](https://placehold.co/15x15/F7A654/F7A654.png) `#F7A654`|
+|Jagermeister Orange|A.MIG-0309|Cobra Motor|246|175|123|![#F6AF7B](https://placehold.co/15x15/F6AF7B/F6AF7B.png) `#F6AF7B`|
+|Repsol Red|A.MIG-0310|Cobra Motor|236|135|103|![#EC8767](https://placehold.co/15x15/EC8767/EC8767.png) `#EC8767`|
+|Mp4 Red|A.MIG-0311|Cobra Motor|234|122|117|![#EA7A75](https://placehold.co/15x15/EA7A75/EA7A75.png) `#EA7A75`|
+|50s 60s Rosso Corsa|A.MIG-0312|Cobra Motor|239|94|80|![#EF5E50](https://placehold.co/15x15/EF5E50/EF5E50.png) `#EF5E50`|
+|Rosso Corsa Racing|A.MIG-0313|Cobra Motor|232|87|73|![#E85749](https://placehold.co/15x15/E85749/E85749.png) `#E85749`|
+|Phoenix Red|A.MIG-0314|Cobra Motor|213|91|90|![#D55B5A](https://placehold.co/15x15/D55B5A/D55B5A.png) `#D55B5A`|
+|Red Wine|A.MIG-0315|Cobra Motor|167|70|64|![#A74640](https://placehold.co/15x15/A74640/A74640.png) `#A74640`|
+|Red Wine|A.MIG-0316|Cobra Motor|111|78|64|![#6F4E40](https://placehold.co/15x15/6F4E40/6F4E40.png) `#6F4E40`|
+|Wood|A.MIG-0317|Cobra Motor|168|118|93|![#A8765D](https://placehold.co/15x15/A8765D/A8765D.png) `#A8765D`|
+|Reddish Leather|A.MIG-0318|Cobra Motor|181|107|91|![#B56B5B](https://placehold.co/15x15/B56B5B/B56B5B.png) `#B56B5B`|
+|Brown Leather|A.MIG-0319|Cobra Motor|223|166|100|![#DFA664](https://placehold.co/15x15/DFA664/DFA664.png) `#DFA664`|
+|Saturn Green|A.MIG-0320|Cobra Motor|215|228|135|![#D7E487](https://placehold.co/15x15/D7E487/D7E487.png) `#D7E487`|
+|Oriental Green|A.MIG-0321|Cobra Motor|161|166|100|![#A1A664](https://placehold.co/15x15/A1A664/A1A664.png) `#A1A664`|
+|Spinel Green|A.MIG-0322|Cobra Motor|109|189|87|![#6DBD57](https://placehold.co/15x15/6DBD57/6DBD57.png) `#6DBD57`|
+|British Racing Green|A.MIG-0323|Cobra Motor|56|126|89|![#387E59](https://placehold.co/15x15/387E59/387E59.png) `#387E59`|
+|British Racing Dark Green|A.MIG-0324|Cobra Motor|46|101|71|![#2E6547](https://placehold.co/15x15/2E6547/2E6547.png) `#2E6547`|
+|Phtalo Green|A.MIG-0325|Cobra Motor|2|152|127|![#02987F](https://placehold.co/15x15/02987F/02987F.png) `#02987F`|
+|Vailliant Green|A.MIG-0326|Cobra Motor|26|184|175|![#1AB8AF](https://placehold.co/15x15/1AB8AF/1AB8AF.png) `#1AB8AF`|
+|Blue Rob Walker|A.MIG-0327|Cobra Motor|54|95|172|![#365FAC](https://placehold.co/15x15/365FAC/365FAC.png) `#365FAC`|
+|San Marino Blue|A.MIG-0328|Cobra Motor|88|96|169|![#5860A9](https://placehold.co/15x15/5860A9/5860A9.png) `#5860A9`|
+|Tyrrell Blue|A.MIG-0329|Cobra Motor|41|136|189|![#2988BD](https://placehold.co/15x15/2988BD/2988BD.png) `#2988BD`|
+|Blue Canvas|A.MIG-0330|Cobra Motor|95|136|195|![#5F88C3](https://placehold.co/15x15/5F88C3/5F88C3.png) `#5F88C3`|
+|Williams Blue|A.MIG-0331|Cobra Motor|83|147|203|![#5393CB](https://placehold.co/15x15/5393CB/5393CB.png) `#5393CB`|
+|Medium Blue|A.MIG-0332|Cobra Motor|71|193|238|![#47C1EE](https://placehold.co/15x15/47C1EE/47C1EE.png) `#47C1EE`|
+|Performance Blue|A.MIG-0333|Cobra Motor|153|196|229|![#99C4E5](https://placehold.co/15x15/99C4E5/99C4E5.png) `#99C4E5`|
+|Gulf Blue|A.MIG-0334|Cobra Motor|157|199|222|![#9DC7DE](https://placehold.co/15x15/9DC7DE/9DC7DE.png) `#9DC7DE`|
+|Frost Grey|A.MIG-0335|Cobra Motor|200|213|220|![#C8D5DC](https://placehold.co/15x15/C8D5DC/C8D5DC.png) `#C8D5DC`|
+|Ocean Grey|A.MIG-0336|Cobra Motor|189|202|211|![#BDCAD3](https://placehold.co/15x15/BDCAD3/BDCAD3.png) `#BDCAD3`|
+|Graphite Grey|A.MIG-0337|Cobra Motor|132|139|142|![#848B8E](https://placehold.co/15x15/848B8E/848B8E.png) `#848B8E`|
+|Rubber|A.MIG-0338|Cobra Motor|87|97|101|![#576165](https://placehold.co/15x15/576165/576165.png) `#576165`|
+|Carbon Fibre|A.MIG-0339|Cobra Motor|71|76|78|![#474C4E](https://placehold.co/15x15/474C4E/474C4E.png) `#474C4E`|
+|Matt Black|A.MIG-0340|Cobra Motor|24|29|32|![#181D20](https://placehold.co/15x15/181D20/181D20.png) `#181D20`|
+|Satin Black|A.MIG-0341|Cobra Motor|28|34|37|![#1C2225](https://placehold.co/15x15/1C2225/1C2225.png) `#1C2225`|
+|Black Gloss Primer|A.MIG-0342|Cobra Motor|25|31|31|![#191F1F](https://placehold.co/15x15/191F1F/191F1F.png) `#191F1F`|
+|Chrome Effect For Black Gloss|A.MIG-0343|Cobra Motor|152|157|158|![#989D9E](https://placehold.co/15x15/989D9E/989D9E.png) `#989D9E`|
+|Grigio Thalasse|A.MIG-0344|Cobra Motor|184|193|196|![#B8C1C4](https://placehold.co/15x15/B8C1C4/B8C1C4.png) `#B8C1C4`|
+|Alcoa Alluminium|A.MIG-0345|Cobra Motor|223|227|231|![#DFE3E7](https://placehold.co/15x15/DFE3E7/DFE3E7.png) `#DFE3E7`|
+|Mineral Grau|A.MIG-0346|Cobra Motor|86|94|98|![#565E62](https://placehold.co/15x15/565E62/565E62.png) `#565E62`|
+|Selenit Grau|A.MIG-0347|Cobra Motor|70|74|76|![#464A4C](https://placehold.co/15x15/464A4C/464A4C.png) `#464A4C`|
+|Basalt Black|A.MIG-0348|Cobra Motor|53|59|60|![#353B3C](https://placehold.co/15x15/353B3C/353B3C.png) `#353B3C`|
+|Metallic Tourquoise|A.MIG-0349|Cobra Motor|118|184|153|![#76B899](https://placehold.co/15x15/76B899/76B899.png) `#76B899`|
+|Guardsman Blue|A.MIG-0350|Cobra Motor|26|176|194|![#1AB0C2](https://placehold.co/15x15/1AB0C2/1AB0C2.png) `#1AB0C2`|
+|Rb Pearl Blue|A.MIG-0351|Cobra Motor|29|105|175|![#1D69AF](https://placehold.co/15x15/1D69AF/1D69AF.png) `#1D69AF`|
+|Racing Purple|A.MIG-0352|Cobra Motor|109|91|151|![#6D5B97](https://placehold.co/15x15/6D5B97/6D5B97.png) `#6D5B97`|
+|Rosso Metallizzato|A.MIG-0353|Cobra Motor|160|62|56|![#A03E38](https://placehold.co/15x15/A03E38/A03E38.png) `#A03E38`|
+|Classic Copper|A.MIG-0354|Cobra Motor|209|127|87|![#D17F57](https://placehold.co/15x15/D17F57/D17F57.png) `#D17F57`|
+|Bbs Gold|A.MIG-0355|Cobra Motor|251|197|114|![#FBC572](https://placehold.co/15x15/FBC572/FBC572.png) `#FBC572`|
+|Copper Brown Metallic|A.MIG-0356|Cobra Motor|155|138|128|![#9B8A80](https://placehold.co/15x15/9B8A80/9B8A80.png) `#9B8A80`|
+|Crystal Glass|A.MIG-0357|Cobra Motor|169|188|203|![#A9BCCB](https://placehold.co/15x15/A9BCCB/A9BCCB.png) `#A9BCCB`|
+|Yellow Transparent|A.MIG-0358|Cobra Motor|238|198|99|![#EEC663](https://placehold.co/15x15/EEC663/EEC663.png) `#EEC663`|
+|Orange Transparent|A.MIG-0359|Cobra Motor|242|123|50|![#F27B32](https://placehold.co/15x15/F27B32/F27B32.png) `#F27B32`|
+|Red Transparent|A.MIG-0360|Cobra Motor|230|95|97|![#E65F61](https://placehold.co/15x15/E65F61/E65F61.png) `#E65F61`|
+|Smoke Transparent|A.MIG-0361|Cobra Motor|101|106|109|![#656A6D](https://placehold.co/15x15/656A6D/656A6D.png) `#656A6D`|
+|White|A.MIG-0600|DIO Drybrush|231|232|228|![#E7E8E4](https://placehold.co/15x15/E7E8E4/E7E8E4.png) `#E7E8E4`|
+|Light Grey|A.MIG-0601|DIO Drybrush|175|179|178|![#AFB3B2](https://placehold.co/15x15/AFB3B2/AFB3B2.png) `#AFB3B2`|
+|Medium Grey|A.MIG-0602|DIO Drybrush|140|148|152|![#8C9498](https://placehold.co/15x15/8C9498/8C9498.png) `#8C9498`|
+|Basalt Grey|A.MIG-0603|DIO Drybrush|119|126|125|![#777E7D](https://placehold.co/15x15/777E7D/777E7D.png) `#777E7D`|
+|Panzer Grey|A.MIG-0604|DIO Drybrush|59|63|70|![#3B3F46](https://placehold.co/15x15/3B3F46/3B3F46.png) `#3B3F46`|
+|Bright Green|A.MIG-0605|DIO Drybrush|207|222|199|![#CFDEC7](https://placehold.co/15x15/CFDEC7/CFDEC7.png) `#CFDEC7`|
+|Medium Green|A.MIG-0606|DIO Drybrush|169|182|142|![#A9B68E](https://placehold.co/15x15/A9B68E/A9B68E.png) `#A9B68E`|
+|Green|A.MIG-0607|DIO Drybrush|97|108|62|![#616C3E](https://placehold.co/15x15/616C3E/616C3E.png) `#616C3E`|
+|Light Olive Green|A.MIG-0608|DIO Drybrush|183|176|133|![#B7B085](https://placehold.co/15x15/B7B085/B7B085.png) `#B7B085`|
+|Medium Olive Green|A.MIG-0609|DIO Drybrush|134|129|102|![#868166](https://placehold.co/15x15/868166/868166.png) `#868166`|
+|Light Rust|A.MIG-0610|DIO Drybrush|245|188|56|![#F5BC38](https://placehold.co/15x15/F5BC38/F5BC38.png) `#F5BC38`|
+|Medium Rust|A.MIG-0611|DIO Drybrush|232|150|79|![#E8964F](https://placehold.co/15x15/E8964F/E8964F.png) `#E8964F`|
+|Rust|A.MIG-0612|DIO Drybrush|227|122|69|![#E37A45](https://placehold.co/15x15/E37A45/E37A45.png) `#E37A45`|
+|Light Blue|A.MIG-0613|DIO Drybrush|185|213|215|![#B9D5D7](https://placehold.co/15x15/B9D5D7/B9D5D7.png) `#B9D5D7`|
+|Medium Blue|A.MIG-0614|DIO Drybrush|154|217|232|![#9AD9E8](https://placehold.co/15x15/9AD9E8/9AD9E8.png) `#9AD9E8`|
+|Blue|A.MIG-0615|DIO Drybrush|27|132|194|![#1B84C2](https://placehold.co/15x15/1B84C2/1B84C2.png) `#1B84C2`|
+|Light Sand|A.MIG-0616|DIO Drybrush|223|218|199|![#DFDAC7](https://placehold.co/15x15/DFDAC7/DFDAC7.png) `#DFDAC7`|
+|Medium German Yellow|A.MIG-0617|DIO Drybrush|203|193|108|![#CBC16C](https://placehold.co/15x15/CBC16C/CBC16C.png) `#CBC16C`|
+|Chipping|A.MIG-0618|DIO Drybrush|83|59|47|![#533B2F](https://placehold.co/15x15/533B2F/533B2F.png) `#533B2F`|
+|Earth|A.MIG-0619|DIO Drybrush|145|112|88|![#917058](https://placehold.co/15x15/917058/917058.png) `#917058`|
+|Dark Sand|A.MIG-0620|DIO Drybrush|190|157|123|![#BE9D7B](https://placehold.co/15x15/BE9D7B/BE9D7B.png) `#BE9D7B`|
+|Light Metal|A.MIG-0621|DIO Drybrush|211|214|213|![#D3D6D5](https://placehold.co/15x15/D3D6D5/D3D6D5.png) `#D3D6D5`|
+|Gun Metal|A.MIG-0622|DIO Drybrush|131|133|133|![#838585](https://placehold.co/15x15/838585/838585.png) `#838585`|
+|Brass|A.MIG-0623|DIO Drybrush|196|184|95|![#C4B85F](https://placehold.co/15x15/C4B85F/C4B85F.png) `#C4B85F`|
+|Faded Yellow|A.MIG-0624|DIO Drybrush|228|225|132|![#E4E184](https://placehold.co/15x15/E4E184/E4E184.png) `#E4E184`|
+|Light Skin|A.MIG-0625|DIO Drybrush|230|211|180|![#E6D3B4](https://placehold.co/15x15/E6D3B4/E6D3B4.png) `#E6D3B4`|
+|Light Brick|A.MIG-0626|DIO Drybrush|187|150|63|![#BB963F](https://placehold.co/15x15/BB963F/BB963F.png) `#BB963F`|
+|Bright Gold|A.MIG-0627|DIO Drybrush|205|163|113|![#CDA371](https://placehold.co/15x15/CDA371/CDA371.png) `#CDA371`|
+|Aluminum|A.MIG-0628|DIO Drybrush|218|222|221|![#DADEDD](https://placehold.co/15x15/DADEDD/DADEDD.png) `#DADEDD`|
+|Copper|A.MIG-0629|DIO Drybrush|234|153|131|![#EA9983](https://placehold.co/15x15/EA9983/EA9983.png) `#EA9983`|
+|Saphire Blue|A.MIG-0630|DIO Drybrush|3|165|218|![#03A5DA](https://placehold.co/15x15/03A5DA/03A5DA.png) `#03A5DA`|
+|Turquoise|A.MIG-0631|DIO Drybrush|92|201|223|![#5CC9DF](https://placehold.co/15x15/5CC9DF/5CC9DF.png) `#5CC9DF`|
+|Putrid Green|A.MIG-0632|DIO Drybrush|185|186|129|![#B9BA81](https://placehold.co/15x15/B9BA81/B9BA81.png) `#B9BA81`|
+|Pure Green|A.MIG-0633|DIO Drybrush|140|198|64|![#8CC640](https://placehold.co/15x15/8CC640/8CC640.png) `#8CC640`|
+|Light Khaki Green|A.MIG-0634|DIO Drybrush|158|172|115|![#9EAC73](https://placehold.co/15x15/9EAC73/9EAC73.png) `#9EAC73`|
+|Flesh|A.MIG-0635|DIO Drybrush|226|144|103|![#E29067](https://placehold.co/15x15/E29067/E29067.png) `#E29067`|
+|Light Flesh|A.MIG-0636|DIO Drybrush|251|221|205|![#FBDDCD](https://placehold.co/15x15/FBDDCD/FBDDCD.png) `#FBDDCD`|
+|Bright Orange|A.MIG-0637|DIO Drybrush|241|108|46|![#F16C2E](https://placehold.co/15x15/F16C2E/F16C2E.png) `#F16C2E`|
+|Light Orange|A.MIG-0638|DIO Drybrush|247|161|108|![#F7A16C](https://placehold.co/15x15/F7A16C/F7A16C.png) `#F7A16C`|
+|Sunny Yellow|A.MIG-0639|DIO Drybrush|250|221|45|![#FADD2D](https://placehold.co/15x15/FADD2D/FADD2D.png) `#FADD2D`|
+|Ice Yellow|A.MIG-0640|DIO Drybrush|249|245|171|![#F9F5AB](https://placehold.co/15x15/F9F5AB/F9F5AB.png) `#F9F5AB`|
+|Dark Blue|A.MIG-0641|DIO Drybrush|22|68|157|![#16449D](https://placehold.co/15x15/16449D/16449D.png) `#16449D`|
+|Vivid Pink|A.MIG-0642|DIO Drybrush|237|87|159|![#ED579F](https://placehold.co/15x15/ED579F/ED579F.png) `#ED579F`|
+|Red|A.MIG-0643|DIO Drybrush|237|63|50|![#ED3F32](https://placehold.co/15x15/ED3F32/ED3F32.png) `#ED3F32`|
+|Magenta|A.MIG-0644|DIO Drybrush|184|45|132|![#B82D84](https://placehold.co/15x15/B82D84/B82D84.png) `#B82D84`|
+|Purple|A.MIG-0645|DIO Drybrush|131|48|118|![#833076](https://placehold.co/15x15/833076/833076.png) `#833076`|
+|Lilac|A.MIG-0646|DIO Drybrush|209|142|190|![#D18EBE](https://placehold.co/15x15/D18EBE/D18EBE.png) `#D18EBE`|
+|Emerald Green|A.MIG-0647|DIO Drybrush|1|100|75|![#01644B](https://placehold.co/15x15/01644B/01644B.png) `#01644B`|
+|Clean Bone|A.MIG-0648|DIO Drybrush|245|249|233|![#F5F9E9](https://placehold.co/15x15/F5F9E9/F5F9E9.png) `#F5F9E9`|
+|Fluor White|A.MIG-0649|DIO Drybrush|246|247|247|![#F6F7F7](https://placehold.co/15x15/F6F7F7/F6F7F7.png) `#F6F7F7`|
+|Lime Green|A.MIG-0650|DIO Drybrush|161|205|58|![#A1CD3A](https://placehold.co/15x15/A1CD3A/A1CD3A.png) `#A1CD3A`|
+|Leather Brown|A.MIG-0651|DIO Drybrush|157|85|40|![#9D5528](https://placehold.co/15x15/9D5528/9D5528.png) `#9D5528`|
+|Dark Brown|A.MIG-0652|DIO Drybrush|95|53|26|![#5F351A](https://placehold.co/15x15/5F351A/5F351A.png) `#5F351A`|
+|Black Brown|A.MIG-0653|DIO Drybrush|25|29|32|![#191D20](https://placehold.co/15x15/191D20/191D20.png) `#191D20`|
+|White|IONIC-0001|IONIC|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+|Ivory|IONIC-0002|IONIC|240|240|222|![#F0F0DE](https://placehold.co/15x15/F0F0DE/F0F0DE.png) `#F0F0DE`|
+|Pearl Grey|IONIC-0003|IONIC|215|214|223|![#D7D6DF](https://placehold.co/15x15/D7D6DF/D7D6DF.png) `#D7D6DF`|
+|Fog Grey|IONIC-0004|IONIC|217|224|225|![#D9E0E1](https://placehold.co/15x15/D9E0E1/D9E0E1.png) `#D9E0E1`|
+|Albus White|IONIC-0005|IONIC|231|238|231|![#E7EEE7](https://placehold.co/15x15/E7EEE7/E7EEE7.png) `#E7EEE7`|
+|Zombie Green|IONIC-0006|IONIC|223|238|219|![#DFEEDB](https://placehold.co/15x15/DFEEDB/DFEEDB.png) `#DFEEDB`|
+|Deck Grey|IONIC-0007|IONIC|186|189|173|![#BABDAD](https://placehold.co/15x15/BABDAD/BABDAD.png) `#BABDAD`|
+|Fang Grey|IONIC-0008|IONIC|200|196|175|![#C8C4AF](https://placehold.co/15x15/C8C4AF/C8C4AF.png) `#C8C4AF`|
+|Bone|IONIC-0009|IONIC|237|232|197|![#EDE8C5](https://placehold.co/15x15/EDE8C5/EDE8C5.png) `#EDE8C5`|
+|Desert Sand|IONIC-0010|IONIC|215|186|133|![#D7BA85](https://placehold.co/15x15/D7BA85/D7BA85.png) `#D7BA85`|
+|Rotten Yellow|IONIC-0011|IONIC|233|223|150|![#E9DF96](https://placehold.co/15x15/E9DF96/E9DF96.png) `#E9DF96`|
+|Vanilla|IONIC-0012|IONIC|241|239|160|![#F1EFA0](https://placehold.co/15x15/F1EFA0/F1EFA0.png) `#F1EFA0`|
+|Ice Yellow|IONIC-0013|IONIC|248|228|154|![#F8E49A](https://placehold.co/15x15/F8E49A/F8E49A.png) `#F8E49A`|
+|High Coverage Yellow|IONIC-0014|IONIC|255|244|79|![#FFF44F](https://placehold.co/15x15/FFF44F/FFF44F.png) `#FFF44F`|
+|Slime Yellow|IONIC-0015|IONIC|235|232|26|![#EBE81A](https://placehold.co/15x15/EBE81A/EBE81A.png) `#EBE81A`|
+|Poison Yellow|IONIC-0016|IONIC|214|199|37|![#D6C725](https://placehold.co/15x15/D6C725/D6C725.png) `#D6C725`|
+|Plasma Green|IONIC-0017|IONIC|172|159|59|![#AC9F3B](https://placehold.co/15x15/AC9F3B/AC9F3B.png) `#AC9F3B`|
+|Primary Yellow|IONIC-0018|IONIC|244|227|0|![#F4E300](https://placehold.co/15x15/F4E300/F4E300.png) `#F4E300`|
+|Yellow|IONIC-0019|IONIC|247|209|22|![#F7D116](https://placehold.co/15x15/F7D116/F7D116.png) `#F7D116`|
+|Sun Stone|IONIC-0020|IONIC|255|184|28|![#FFB81C](https://placehold.co/15x15/FFB81C/FFB81C.png) `#FFB81C`|
+|Golden Yellow|IONIC-0021|IONIC|241|169|0|![#F1A900](https://placehold.co/15x15/F1A900/F1A900.png) `#F1A900`|
+|Bubonic Ochre|IONIC-0022|IONIC|180|125|0|![#B47D00](https://placehold.co/15x15/B47D00/B47D00.png) `#B47D00`|
+|Ochre|IONIC-0023|IONIC|209|144|0|![#D19000](https://placehold.co/15x15/D19000/D19000.png) `#D19000`|
+|Khaki|IONIC-0024|IONIC|174|146|53|![#AE9235](https://placehold.co/15x15/AE9235/AE9235.png) `#AE9235`|
+|Light Golden Flesh|IONIC-0025|IONIC|252|208|133|![#FCD085](https://placehold.co/15x15/FCD085/FCD085.png) `#FCD085`|
+|Elf Skin|IONIC-0026|IONIC|248|207|169|![#F8CFA9](https://placehold.co/15x15/F8CFA9/F8CFA9.png) `#F8CFA9`|
+|Gnome Skin|IONIC-0027|IONIC|255|189|159|![#FFBD9F](https://placehold.co/15x15/FFBD9F/FFBD9F.png) `#FFBD9F`|
+|Chibi Skin|IONIC-0028|IONIC|255|159|106|![#FF9F6A](https://placehold.co/15x15/FF9F6A/FF9F6A.png) `#FF9F6A`|
+|Golden Flesh|IONIC-0029|IONIC|248|172|108|![#F8AC6C](https://placehold.co/15x15/F8AC6C/F8AC6C.png) `#F8AC6C`|
+|Imperial Flesh|IONIC-0030|IONIC|221|163|110|![#DDA36E](https://placehold.co/15x15/DDA36E/DDA36E.png) `#DDA36E`|
+|Salmon|IONIC-0031|IONIC|240|128|111|![#F0806F](https://placehold.co/15x15/F0806F/F0806F.png) `#F0806F`|
+|Dwarf Skin|IONIC-0032|IONIC|232|146|123|![#E8927B](https://placehold.co/15x15/E8927B/E8927B.png) `#E8927B`|
+|Terracota|IONIC-0033|IONIC|179|60|80|![#B33C50](https://placehold.co/15x15/B33C50/B33C50.png) `#B33C50`|
+|Tanned Flesh|IONIC-0034|IONIC|172|105|95|![#AC695F](https://placehold.co/15x15/AC695F/AC695F.png) `#AC695F`|
+|Neutral Flesh|IONIC-0035|IONIC|213|146|137|![#D59289](https://placehold.co/15x15/D59289/D59289.png) `#D59289`|
+|Light Coral|IONIC-0036|IONIC|255|176|186|![#FFB0BA](https://placehold.co/15x15/FFB0BA/FFB0BA.png) `#FFB0BA`|
+|Old Red|IONIC-0037|IONIC|220|133|153|![#DC8599](https://placehold.co/15x15/DC8599/DC8599.png) `#DC8599`|
+|Coral|IONIC-0038|IONIC|246|82|117|![#F65275](https://placehold.co/15x15/F65275/F65275.png) `#F65275`|
+|Undead Skin|IONIC-0039|IONIC|196|170|177|![#C4AAB1](https://placehold.co/15x15/C4AAB1/C4AAB1.png) `#C4AAB1`|
+|Pale Skin|IONIC-0040|IONIC|245|222|218|![#F5DEDA](https://placehold.co/15x15/F5DEDA/F5DEDA.png) `#F5DEDA`|
+|Vampire Skin|IONIC-0041|IONIC|243|235|232|![#F3EBE8](https://placehold.co/15x15/F3EBE8/F3EBE8.png) `#F3EBE8`|
+|Rotten Flesh|IONIC-0042|IONIC|202|198|146|![#CAC692](https://placehold.co/15x15/CAC692/CAC692.png) `#CAC692`|
+|Zombie Skin|IONIC-0043|IONIC|223|180|129|![#DFB481](https://placehold.co/15x15/DFB481/DFB481.png) `#DFB481`|
+|Peach|IONIC-0044|IONIC|255|163|0|![#FFA300](https://placehold.co/15x15/FFA300/FFA300.png) `#FFA300`|
+|Flame Orange|IONIC-0045|IONIC|233|135|77|![#E9874D](https://placehold.co/15x15/E9874D/E9874D.png) `#E9874D`|
+|Light Orange|IONIC-0046|IONIC|255|126|96|![#FF7E60](https://placehold.co/15x15/FF7E60/FF7E60.png) `#FF7E60`|
+|Blazing Orange|IONIC-0047|IONIC|235|51|0|![#EB3300](https://placehold.co/15x15/EB3300/EB3300.png) `#EB3300`|
+|Orange|IONIC-0048|IONIC|226|82|5|![#E25205](https://placehold.co/15x15/E25205/E25205.png) `#E25205`|
+|Shadow Orange|IONIC-0049|IONIC|202|115|80|![#CA7350](https://placehold.co/15x15/CA7350/CA7350.png) `#CA7350`|
+|Light Red|IONIC-0050|IONIC|255|87|93|![#FF575D](https://placehold.co/15x15/FF575D/FF575D.png) `#FF575D`|
+|Devil Red|IONIC-0051|IONIC|223|78|57|![#DF4E39](https://placehold.co/15x15/DF4E39/DF4E39.png) `#DF4E39`|
+|Blood Red|IONIC-0052|IONIC|210|41|28|![#D2291C](https://placehold.co/15x15/D2291C/D2291C.png) `#D2291C`|
+|Superhero Red|IONIC-0053|IONIC|227|0|43|![#E3002B](https://placehold.co/15x15/E3002B/E3002B.png) `#E3002B`|
+|Red|IONIC-0054|IONIC|183|48|44|![#B7302C](https://placehold.co/15x15/B7302C/B7302C.png) `#B7302C`|
+|Wine Red|IONIC-0055|IONIC|118|34|46|![#76222E](https://placehold.co/15x15/76222E/76222E.png) `#76222E`|
+|Blood Moon Red|IONIC-0056|IONIC|155|39|67|![#9B2743](https://placehold.co/15x15/9B2743/9B2743.png) `#9B2743`|
+|Grape Red|IONIC-0057|IONIC|120|46|64|![#782E40](https://placehold.co/15x15/782E40/782E40.png) `#782E40`|
+|Dark Red|IONIC-0058|IONIC|120|31|28|![#781F1C](https://placehold.co/15x15/781F1C/781F1C.png) `#781F1C`|
+|Cardinal Purple|IONIC-0059|IONIC|88|39|31|![#58271F](https://placehold.co/15x15/58271F/58271F.png) `#58271F`|
+|Thanatos Grey|IONIC-0060|IONIC|164|132|149|![#A48495](https://placehold.co/15x15/A48495/A48495.png) `#A48495`|
+|Dead Magenta|IONIC-0061|IONIC|239|197|192|![#EFC5C0](https://placehold.co/15x15/EFC5C0/EFC5C0.png) `#EFC5C0`|
+|Cold Pink|IONIC-0062|IONIC|234|184|227|![#EAB8E3](https://placehold.co/15x15/EAB8E3/EAB8E3.png) `#EAB8E3`|
+|Pink|IONIC-0063|IONIC|231|130|169|![#E782A9](https://placehold.co/15x15/E782A9/E782A9.png) `#E782A9`|
+|Laser Pink|IONIC-0064|IONIC|255|61|181|![#FF3DB5](https://placehold.co/15x15/FF3DB5/FF3DB5.png) `#FF3DB5`|
+|Gum Pink|IONIC-0065|IONIC|245|182|205|![#F5B6CD](https://placehold.co/15x15/F5B6CD/F5B6CD.png) `#F5B6CD`|
+|Tentacle Pink|IONIC-0066|IONIC|235|133|208|![#EB85D0](https://placehold.co/15x15/EB85D0/EB85D0.png) `#EB85D0`|
+|Light Magenta|IONIC-0067|IONIC|174|21|133|![#AE1585](https://placehold.co/15x15/AE1585/AE1585.png) `#AE1585`|
+|Magenta|IONIC-0068|IONIC|161|0|103|![#A10067](https://placehold.co/15x15/A10067/A10067.png) `#A10067`|
+|Dark Magenta|IONIC-0069|IONIC|145|0|71|![#910047](https://placehold.co/15x15/910047/910047.png) `#910047`|
+|Malicious Violet|IONIC-0070|IONIC|125|72|102|![#7D4866](https://placehold.co/15x15/7D4866/7D4866.png) `#7D4866`|
+|Magic Purple|IONIC-0071|IONIC|131|0|100|![#830064](https://placehold.co/15x15/830064/830064.png) `#830064`|
+|Octopus Purple|IONIC-0072|IONIC|95|55|83|![#5F3753](https://placehold.co/15x15/5F3753/5F3753.png) `#5F3753`|
+|Scab Red|IONIC-0073|IONIC|81|36|46|![#51242E](https://placehold.co/15x15/51242E/51242E.png) `#51242E`|
+|Dark Violet|IONIC-0074|IONIC|74|47|71|![#4A2F47](https://placehold.co/15x15/4A2F47/4A2F47.png) `#4A2F47`|
+|Warlock Purple|IONIC-0075|IONIC|95|32|103|![#5F2067](https://placehold.co/15x15/5F2067/5F2067.png) `#5F2067`|
+|Deep Violet|IONIC-0076|IONIC|81|40|79|![#51284F](https://placehold.co/15x15/51284F/51284F.png) `#51284F`|
+|Misty Grey|IONIC-0077|IONIC|102|102|119|![#666677](https://placehold.co/15x15/666677/666677.png) `#666677`|
+|Twilight Purple|IONIC-0078|IONIC|70|78|125|![#464E7D](https://placehold.co/15x15/464E7D/464E7D.png) `#464E7D`|
+|Purple|IONIC-0079|IONIC|81|44|108|![#512C6C](https://placehold.co/15x15/512C6C/512C6C.png) `#512C6C`|
+|Blue Violet|IONIC-0080|IONIC|144|98|205|![#9062CD](https://placehold.co/15x15/9062CD/9062CD.png) `#9062CD`|
+|Lavender|IONIC-0081|IONIC|155|124|211|![#9B7CD3](https://placehold.co/15x15/9B7CD3/9B7CD3.png) `#9B7CD3`|
+|Light Lavender|IONIC-0082|IONIC|197|180|226|![#C5B4E2](https://placehold.co/15x15/C5B4E2/C5B4E2.png) `#C5B4E2`|
+|Dead Pink|IONIC-0083|IONIC|223|199|231|![#DFC7E7](https://placehold.co/15x15/DFC7E7/DFC7E7.png) `#DFC7E7`|
+|Ice Blue|IONIC-0084|IONIC|189|201|234|![#BDC9EA](https://placehold.co/15x15/BDC9EA/BDC9EA.png) `#BDC9EA`|
+|Smoke Grey|IONIC-0085|IONIC|164|167|187|![#A4A7BB](https://placehold.co/15x15/A4A7BB/A4A7BB.png) `#A4A7BB`|
+|Oxford Blue|IONIC-0086|IONIC|95|93|117|![#5F5D75](https://placehold.co/15x15/5F5D75/5F5D75.png) `#5F5D75`|
+|Rainfall Blue|IONIC-0087|IONIC|94|137|180|![#5E89B4](https://placehold.co/15x15/5E89B4/5E89B4.png) `#5E89B4`|
+|Shadow Grey|IONIC-0088|IONIC|52|100|124|![#34647C](https://placehold.co/15x15/34647C/34647C.png) `#34647C`|
+|Mediterranean Blue|IONIC-0089|IONIC|39|116|173|![#2774AD](https://placehold.co/15x15/2774AD/2774AD.png) `#2774AD`|
+|Wolf Grey|IONIC-0090|IONIC|184|210|220|![#B8D2DC](https://placehold.co/15x15/B8D2DC/B8D2DC.png) `#B8D2DC`|
+|Frost Blue|IONIC-0091|IONIC|85|183|230|![#55B7E6](https://placehold.co/15x15/55B7E6/55B7E6.png) `#55B7E6`|
+|Sky Blue|IONIC-0092|IONIC|65|171|235|![#41ABEB](https://placehold.co/15x15/41ABEB/41ABEB.png) `#41ABEB`|
+|Lightning Blue|IONIC-0093|IONIC|0|144|218|![#0090DA](https://placehold.co/15x15/0090DA/0090DA.png) `#0090DA`|
+|Enchanted Blue|IONIC-0094|IONIC|0|132|210|![#0084D2](https://placehold.co/15x15/0084D2/0084D2.png) `#0084D2`|
+|Ultramarine Blue|IONIC-0095|IONIC|37|106|182|![#256AB6](https://placehold.co/15x15/256AB6/256AB6.png) `#256AB6`|
+|Phthalo Blue|IONIC-0096|IONIC|0|62|204|![#003ECC](https://placehold.co/15x15/003ECC/003ECC.png) `#003ECC`|
+|Astral Blue|IONIC-0097|IONIC|0|31|122|![#001F7A](https://placehold.co/15x15/001F7A/001F7A.png) `#001F7A`|
+|Sapphire Blue|IONIC-0098|IONIC|1|19|100|![#011364](https://placehold.co/15x15/011364/011364.png) `#011364`|
+|Abyss Blue|IONIC-0099|IONIC|0|58|110|![#003A6E](https://placehold.co/15x15/003A6E/003A6E.png) `#003A6E`|
+|Midnight Blue|IONIC-0100|IONIC|0|21|82|![#001552](https://placehold.co/15x15/001552/001552.png) `#001552`|
+|Prussian Blue|IONIC-0101|IONIC|0|44|113|![#002C71](https://placehold.co/15x15/002C71/002C71.png) `#002C71`|
+|Dark Sea Blue|IONIC-0102|IONIC|0|59|69|![#003B45](https://placehold.co/15x15/003B45/003B45.png) `#003B45`|
+|Ocean Blue|IONIC-0103|IONIC|0|79|88|![#004F58](https://placehold.co/15x15/004F58/004F58.png) `#004F58`|
+|Dark Turquoise|IONIC-0104|IONIC|27|104|117|![#1B6875](https://placehold.co/15x15/1B6875/1B6875.png) `#1B6875`|
+|Storm Blue|IONIC-0105|IONIC|17|94|103|![#115E67](https://placehold.co/15x15/115E67/115E67.png) `#115E67`|
+|Turquoise|IONIC-0106|IONIC|0|139|148|![#008B94](https://placehold.co/15x15/008B94/008B94.png) `#008B94`|
+|Seawater|IONIC-0107|IONIC|0|106|82|![#006A52](https://placehold.co/15x15/006A52/006A52.png) `#006A52`|
+|Light Turquoise|IONIC-0108|IONIC|0|162|156|![#00A29C](https://placehold.co/15x15/00A29C/00A29C.png) `#00A29C`|
+|Light Blue|IONIC-0109|IONIC|42|210|200|![#2AD2C8](https://placehold.co/15x15/2AD2C8/2AD2C8.png) `#2AD2C8`|
+|Cloud Blue|IONIC-0110|IONIC|137|223|218|![#89DFDA](https://placehold.co/15x15/89DFDA/89DFDA.png) `#89DFDA`|
+|Verdigris|IONIC-0111|IONIC|123|223|210|![#7BDFD2](https://placehold.co/15x15/7BDFD2/7BDFD2.png) `#7BDFD2`|
+|Green Oxide|IONIC-0112|IONIC|139|241|189|![#8BF1BD](https://placehold.co/15x15/8BF1BD/8BF1BD.png) `#8BF1BD`|
+|Phantom Blue|IONIC-0113|IONIC|133|186|173|![#85BAAD](https://placehold.co/15x15/85BAAD/85BAAD.png) `#85BAAD`|
+|Mint Green|IONIC-0114|IONIC|55|250|206|![#37FACE](https://placehold.co/15x15/37FACE/37FACE.png) `#37FACE`|
+|Light Jade Green|IONIC-0115|IONIC|145|213|172|![#91D5AC](https://placehold.co/15x15/91D5AC/91D5AC.png) `#91D5AC`|
+|Magic Green|IONIC-0116|IONIC|0|198|176|![#00C6B0](https://placehold.co/15x15/00C6B0/00C6B0.png) `#00C6B0`|
+|Jade Green|IONIC-0117|IONIC|0|149|129|![#009581](https://placehold.co/15x15/009581/009581.png) `#009581`|
+|Emerald Green|IONIC-0118|IONIC|0|149|108|![#00956C](https://placehold.co/15x15/00956C/00956C.png) `#00956C`|
+|Green|IONIC-0119|IONIC|0|134|61|![#00863D](https://placehold.co/15x15/00863D/00863D.png) `#00863D`|
+|Black Forest|IONIC-0120|IONIC|29|59|52|![#1D3B34](https://placehold.co/15x15/1D3B34/1D3B34.png) `#1D3B34`|
+|Scaly Green|IONIC-0121|IONIC|0|84|78|![#00544E](https://placehold.co/15x15/00544E/00544E.png) `#00544E`|
+|Dark Marine Green|IONIC-0122|IONIC|3|95|29|![#035F1D](https://placehold.co/15x15/035F1D/035F1D.png) `#035F1D`|
+|Lizard Green|IONIC-0123|IONIC|51|84|36|![#335424](https://placehold.co/15x15/335424/335424.png) `#335424`|
+|Dark Green|IONIC-0124|IONIC|0|72|30|![#00481E](https://placehold.co/15x15/00481E/00481E.png) `#00481E`|
+|Forest Green|IONIC-0125|IONIC|32|86|49|![#205631](https://placehold.co/15x15/205631/205631.png) `#205631`|
+|Orc Green|IONIC-0126|IONIC|0|133|33|![#008521](https://placehold.co/15x15/008521/008521.png) `#008521`|
+|Nymph Green|IONIC-0127|IONIC|70|161|62|![#46A13E](https://placehold.co/15x15/46A13E/46A13E.png) `#46A13E`|
+|Goblin Green|IONIC-0128|IONIC|126|159|99|![#7E9F63](https://placehold.co/15x15/7E9F63/7E9F63.png) `#7E9F63`|
+|Moss Green|IONIC-0129|IONIC|100|141|27|![#648D1B](https://placehold.co/15x15/648D1B/648D1B.png) `#648D1B`|
+|Laser Green|IONIC-0130|IONIC|121|204|0|![#79CC00](https://placehold.co/15x15/79CC00/79CC00.png) `#79CC00`|
+|Olive Green|IONIC-0131|IONIC|121|154|1|![#799A01](https://placehold.co/15x15/799A01/799A01.png) `#799A01`|
+|Acid Green|IONIC-0132|IONIC|224|223|0|![#E0DF00](https://placehold.co/15x15/E0DF00/E0DF00.png) `#E0DF00`|
+|Mystic Green|IONIC-0133|IONIC|179|212|124|![#B3D47C](https://placehold.co/15x15/B3D47C/B3D47C.png) `#B3D47C`|
+|Stone Green|IONIC-0134|IONIC|167|193|133|![#A7C185](https://placehold.co/15x15/A7C185/A7C185.png) `#A7C185`|
+|Rotten Green|IONIC-0135|IONIC|208|222|186|![#D0DEBA](https://placehold.co/15x15/D0DEBA/D0DEBA.png) `#D0DEBA`|
+|Ghostly Green|IONIC-0136|IONIC|213|232|100|![#D5E864](https://placehold.co/15x15/D5E864/D5E864.png) `#D5E864`|
+|Light Olive Green|IONIC-0137|IONIC|181|188|0|![#B5BC00](https://placehold.co/15x15/B5BC00/B5BC00.png) `#B5BC00`|
+|Frog Green|IONIC-0138|IONIC|158|167|0|![#9EA700](https://placehold.co/15x15/9EA700/9EA700.png) `#9EA700`|
+|Camo Green|IONIC-0139|IONIC|154|148|0|![#9A9400](https://placehold.co/15x15/9A9400/9A9400.png) `#9A9400`|
+|Ogre Green|IONIC-0140|IONIC|82|109|61|![#526D3D](https://placehold.co/15x15/526D3D/526D3D.png) `#526D3D`|
+|Dragon Green|IONIC-0141|IONIC|78|91|48|![#4E5B30](https://placehold.co/15x15/4E5B30/4E5B30.png) `#4E5B30`|
+|Desert Yellow|IONIC-0142|IONIC|184|150|91|![#B8965B](https://placehold.co/15x15/B8965B/B8965B.png) `#B8965B`|
+|Tombstone Yellow|IONIC-0143|IONIC|168|153|104|![#A89968](https://placehold.co/15x15/A89968/A89968.png) `#A89968`|
+|Old Bone|IONIC-0144|IONIC|212|194|164|![#D4C2A4](https://placehold.co/15x15/D4C2A4/D4C2A4.png) `#D4C2A4`|
+|Dark Ochre|IONIC-0145|IONIC|115|82|29|![#73521D](https://placehold.co/15x15/73521D/73521D.png) `#73521D`|
+|Rock Grey|IONIC-0146|IONIC|94|103|56|![#5E6738](https://placehold.co/15x15/5E6738/5E6738.png) `#5E6738`|
+|Brown Green|IONIC-0147|IONIC|112|92|42|![#705C2A](https://placehold.co/15x15/705C2A/705C2A.png) `#705C2A`|
+|Graveyard Earth|IONIC-0148|IONIC|110|81|55|![#6E5137](https://placehold.co/15x15/6E5137/6E5137.png) `#6E5137`|
+|Sand|IONIC-0149|IONIC|213|163|96|![#D5A360](https://placehold.co/15x15/D5A360/D5A360.png) `#D5A360`|
+|Golden Sand|IONIC-0150|IONIC|220|133|51|![#DC8533](https://placehold.co/15x15/DC8533/DC8533.png) `#DC8533`|
+|Mushroom Brown|IONIC-0151|IONIC|166|84|34|![#A65422](https://placehold.co/15x15/A65422/A65422.png) `#A65422`|
+|Leather Brown|IONIC-0152|IONIC|155|90|26|![#9B5A1A](https://placehold.co/15x15/9B5A1A/9B5A1A.png) `#9B5A1A`|
+|Vermin Brown|IONIC-0153|IONIC|123|57|44|![#7B392C](https://placehold.co/15x15/7B392C/7B392C.png) `#7B392C`|
+|Brown|IONIC-0154|IONIC|138|70|31|![#8A461F](https://placehold.co/15x15/8A461F/8A461F.png) `#8A461F`|
+|Light Rust|IONIC-0155|IONIC|202|95|20|![#CA5F14](https://placehold.co/15x15/CA5F14/CA5F14.png) `#CA5F14`|
+|Rust|IONIC-0156|IONIC|137|43|43|![#892B2B](https://placehold.co/15x15/892B2B/892B2B.png) `#892B2B`|
+|Demon Red|IONIC-0157|IONIC|146|108|115|![#926C73](https://placehold.co/15x15/926C73/926C73.png) `#926C73`|
+|Dark Skin|IONIC-0158|IONIC|91|52|39|![#5B3427](https://placehold.co/15x15/5B3427/5B3427.png) `#5B3427`|
+|Stonewall Grey|IONIC-0159|IONIC|122|99|105|![#7A6369](https://placehold.co/15x15/7A6369/7A6369.png) `#7A6369`|
+|Black Brown|IONIC-0160|IONIC|62|31|32|![#3E1F20](https://placehold.co/15x15/3E1F20/3E1F20.png) `#3E1F20`|
+|Burnt Umber|IONIC-0161|IONIC|78|54|41|![#4E3629](https://placehold.co/15x15/4E3629/4E3629.png) `#4E3629`|
+|Ruins Grey|IONIC-0162|IONIC|163|170|149|![#A3AA95](https://placehold.co/15x15/A3AA95/A3AA95.png) `#A3AA95`|
+|Warm Grey|IONIC-0163|IONIC|158|150|142|![#9E968E](https://placehold.co/15x15/9E968E/9E968E.png) `#9E968E`|
+|Moon Grey|IONIC-0164|IONIC|168|169|158|![#A8A99E](https://placehold.co/15x15/A8A99E/A8A99E.png) `#A8A99E`|
+|Sword Grey|IONIC-0165|IONIC|163|187|194|![#A3BBC2](https://placehold.co/15x15/A3BBC2/A3BBC2.png) `#A3BBC2`|
+|Admiral Grey|IONIC-0166|IONIC|79|104|93|![#4F685D](https://placehold.co/15x15/4F685D/4F685D.png) `#4F685D`|
+|Steel Shadow|IONIC-0167|IONIC|36|55|70|![#243746](https://placehold.co/15x15/243746/243746.png) `#243746`|
+|Armour Grey|IONIC-0168|IONIC|135|161|154|![#87A19A](https://placehold.co/15x15/87A19A/87A19A.png) `#87A19A`|
+|Neutral Grey|IONIC-0169|IONIC|91|103|111|![#5B676F](https://placehold.co/15x15/5B676F/5B676F.png) `#5B676F`|
+|Cold Black|IONIC-0170|IONIC|32|39|32|![#202720](https://placehold.co/15x15/202720/202720.png) `#202720`|
+|Dark Grey|IONIC-0171|IONIC|29|36|44|![#1D242C](https://placehold.co/15x15/1D242C/1D242C.png) `#1D242C`|
+|Black|IONIC-0172|IONIC|0|0|0|![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`|
+|Black Metal|IONIC-0173|IONIC|121|122|106|![#797A6A](https://placehold.co/15x15/797A6A/797A6A.png) `#797A6A`|
+|Steel|IONIC-0174|IONIC|198|203|206|![#C6CBCE](https://placehold.co/15x15/C6CBCE/C6CBCE.png) `#C6CBCE`|
+|Silver|IONIC-0175|IONIC|197|203|199|![#C5CBC7](https://placehold.co/15x15/C5CBC7/C5CBC7.png) `#C5CBC7`|
+|Burnt Metal|IONIC-0176|IONIC|145|121|94|![#91795E](https://placehold.co/15x15/91795E/91795E.png) `#91795E`|
+|Copper|IONIC-0177|IONIC|181|134|89|![#B58659](https://placehold.co/15x15/B58659/B58659.png) `#B58659`|
+|Bronze|IONIC-0178|IONIC|215|181|122|![#D7B57A](https://placehold.co/15x15/D7B57A/D7B57A.png) `#D7B57A`|
+|Gold|IONIC-0179|IONIC|208|190|113|![#D0BE71](https://placehold.co/15x15/D0BE71/D0BE71.png) `#D0BE71`|
+|Brass|IONIC-0180|IONIC|236|209|102|![#ECD166](https://placehold.co/15x15/ECD166/ECD166.png) `#ECD166`|
+|Metallic Jet Exhaust Burnt Iron|A.MIG-0187|Metal|103|66|50|![#674232](https://placehold.co/15x15/674232/674232.png) `#674232`|
+|Metallic Red|A.MIG-0188|Metal|185|61|49|![#B93D31](https://placehold.co/15x15/B93D31/B93D31.png) `#B93D31`|
+|Metallic Orange|A.MIG-0189|Metal|197|105|41|![#C56929](https://placehold.co/15x15/C56929/C56929.png) `#C56929`|
+|Old Brass|A.MIG-0190|Metal|120|74|41|![#784A29](https://placehold.co/15x15/784A29/784A29.png) `#784A29`|
+|Steel RAL 9006|A.MIG-0191|Metal|130|132|122|![#82847A](https://placehold.co/15x15/82847A/82847A.png) `#82847A`|
+|Polished Metal|A.MIG-0192|Metal|101|99|96|![#656360](https://placehold.co/15x15/656360/656360.png) `#656360`|
+|Bluish Titanium|A.MIG-0193|Metal|84|100|101|![#546465](https://placehold.co/15x15/546465/546465.png) `#546465`|
+|Matt Aluminum|A.MIG-0194|Metal|168|170|169|![#A8AAA9](https://placehold.co/15x15/A8AAA9/A8AAA9.png) `#A8AAA9`|
+|Silver FS 17178 RLM 01|A.MIG-0195|Metal|137|143|135|![#898F87](https://placehold.co/15x15/898F87/898F87.png) `#898F87`|
+|Warhead Metallic Blue|A.MIG-0196|Metal|28|93|159|![#1C5D9F](https://placehold.co/15x15/1C5D9F/1C5D9F.png) `#1C5D9F`|
+|Brass|A.MIG-0197|Metal|184|136|67|![#B88843](https://placehold.co/15x15/B88843/B88843.png) `#B88843`|
+|Gold FS 17043|A.MIG-0198|Metal|159|134|61|![#9F863D](https://placehold.co/15x15/9F863D/9F863D.png) `#9F863D`|
+|Copper|A.MIG-0199|Metal|166|69|64|![#A64540](https://placehold.co/15x15/A64540/A64540.png) `#A64540`|
+|Orange|A.MIG-0850|Shader|237|180|98|![#EDB462](https://placehold.co/15x15/EDB462/EDB462.png) `#EDB462`|
+|Light Rust|A.MIG-0851|Shader|233|171|126|![#E9AB7E](https://placehold.co/15x15/E9AB7E/E9AB7E.png) `#E9AB7E`|
+|Earth|A.MIG-0852|Shader|213|191|176|![#D5BFB0](https://placehold.co/15x15/D5BFB0/D5BFB0.png) `#D5BFB0`|
+|Dirt|A.MIG-0853|Shader|153|138|122|![#998A7A](https://placehold.co/15x15/998A7A/998A7A.png) `#998A7A`|
+|Grime|A.MIG-0854|Shader|201|189|172|![#C9BDAC](https://placehold.co/15x15/C9BDAC/C9BDAC.png) `#C9BDAC`|
+|Starship Filth|A.MIG-0855|Shader|181|175|164|![#B5AFA4](https://placehold.co/15x15/B5AFA4/B5AFA4.png) `#B5AFA4`|
+|Light Grey|A.MIG-0856|Shader|208|208|208|![#D0D0D0](https://placehold.co/15x15/D0D0D0/D0D0D0.png) `#D0D0D0`|
+|Navy Grey|A.MIG-0857|Shader|175|175|175|![#AFAFAF](https://placehold.co/15x15/AFAFAF/AFAFAF.png) `#AFAFAF`|
+|Ash Black|A.MIG-0858|Shader|96|96|96|![#606060](https://placehold.co/15x15/606060/606060.png) `#606060`|
+|Violet|A.MIG-0859|Shader|196|172|203|![#C4ACCB](https://placehold.co/15x15/C4ACCB/C4ACCB.png) `#C4ACCB`|
+|Sky Blue|A.MIG-0860|Shader|183|213|224|![#B7D5E0](https://placehold.co/15x15/B7D5E0/B7D5E0.png) `#B7D5E0`|
+|Marine Blue|A.MIG-0861|Shader|175|195|219|![#AFC3DB](https://placehold.co/15x15/AFC3DB/AFC3DB.png) `#AFC3DB`|
+|Night Blue|A.MIG-0862|Shader|144|158|172|![#909EAC](https://placehold.co/15x15/909EAC/909EAC.png) `#909EAC`|
+|Light Green|A.MIG-0863|Shader|202|213|147|![#CAD593](https://placehold.co/15x15/CAD593/CAD593.png) `#CAD593`|
+|Light Olive Drab|A.MIG-0864|Shader|207|206|156|![#CFCE9C](https://placehold.co/15x15/CFCE9C/CFCE9C.png) `#CFCE9C`|
+|Military Green|A.MIG-0865|Shader|175|186|137|![#AFBA89](https://placehold.co/15x15/AFBA89/AFBA89.png) `#AFBA89`|
+|Dark Green|A.MIG-0866|Shader|166|174|143|![#A6AE8F](https://placehold.co/15x15/A6AE8F/A6AE8F.png) `#A6AE8F`|
+|Yellow|A.MIG-0867|Shader|243|224|120|![#F3E078](https://placehold.co/15x15/F3E078/F3E078.png) `#F3E078`|
+|Candy Red|A.MIG-0868|Shader|217|158|141|![#D99E8D](https://placehold.co/15x15/D99E8D/D99E8D.png) `#D99E8D`|
+|Light Clay|A.MIG-0869|Shader|227|203|176|![#E3CBB0](https://placehold.co/15x15/E3CBB0/E3CBB0.png) `#E3CBB0`|
+|Light Yellow|A.MIG-0720|Shader (Matt)|220|219|113|![#DCDB71](https://placehold.co/15x15/DCDB71/DCDB71.png) `#DCDB71`|
+|Yellow|A.MIG-0721|Shader (Matt)|231|198|35|![#E7C623](https://placehold.co/15x15/E7C623/E7C623.png) `#E7C623`|
+|Orange|A.MIG-0722|Shader (Matt)|229|171|101|![#E5AB65](https://placehold.co/15x15/E5AB65/E5AB65.png) `#E5AB65`|
+|Light Rust|A.MIG-0723|Shader (Matt)|226|150|91|![#E2965B](https://placehold.co/15x15/E2965B/E2965B.png) `#E2965B`|
+|Candy Red|A.MIG-0724|Shader (Matt)|202|133|112|![#CA8570](https://placehold.co/15x15/CA8570/CA8570.png) `#CA8570`|
+|Blood Red|A.MIG-0725|Shader (Matt)|205|91|93|![#CD5B5D](https://placehold.co/15x15/CD5B5D/CD5B5D.png) `#CD5B5D`|
+|Dry Blood|A.MIG-0726|Shader (Matt)|196|118|98|![#C47662](https://placehold.co/15x15/C47662/C47662.png) `#C47662`|
+|Pink|A.MIG-0727|Shader (Matt)|191|116|159|![#BF749F](https://placehold.co/15x15/BF749F/BF749F.png) `#BF749F`|
+|Natural Flesh|A.MIG-0728|Shader (Matt)|211|139|141|![#D38B8D](https://placehold.co/15x15/D38B8D/D38B8D.png) `#D38B8D`|
+|Beige|A.MIG-0729|Shader (Matt)|221|194|167|![#DDC2A7](https://placehold.co/15x15/DDC2A7/DDC2A7.png) `#DDC2A7`|
+|Light Clay|A.MIG-0730|Shader (Matt)|215|159|129|![#D79F81](https://placehold.co/15x15/D79F81/D79F81.png) `#D79F81`|
+|Hazelnut|A.MIG-0731|Shader (Matt)|207|148|74|![#CF944A](https://placehold.co/15x15/CF944A/CF944A.png) `#CF944A`|
+|Tanned Flesh|A.MIG-0732|Shader (Matt)|192|160|125|![#C0A07D](https://placehold.co/15x15/C0A07D/C0A07D.png) `#C0A07D`|
+|Dwarf Flesh|A.MIG-0733|Shader (Matt)|175|118|86|![#AF7656](https://placehold.co/15x15/AF7656/AF7656.png) `#AF7656`|
+|Sepia|A.MIG-0734|Shader (Matt)|196|153|130|![#C49982](https://placehold.co/15x15/C49982/C49982.png) `#C49982`|
+|Earth|A.MIG-0735|Shader (Matt)|189|145|127|![#BD917F](https://placehold.co/15x15/BD917F/BD917F.png) `#BD917F`|
+|Dirt|A.MIG-0736|Shader (Matt)|135|115|102|![#877366](https://placehold.co/15x15/877366/877366.png) `#877366`|
+|Grime|A.MIG-0737|Shader (Matt)|163|143|122|![#A38F7A](https://placehold.co/15x15/A38F7A/A38F7A.png) `#A38F7A`|
+|Starship Filth|A.MIG-0738|Shader (Matt)|118|114|105|![#767269](https://placehold.co/15x15/767269/767269.png) `#767269`|
+|Dark Green|A.MIG-0739|Shader (Matt)|103|126|85|![#677E55](https://placehold.co/15x15/677E55/677E55.png) `#677E55`|
+|Military Green|A.MIG-0740|Shader (Matt)|117|150|80|![#759650](https://placehold.co/15x15/759650/759650.png) `#759650`|
+|Light Olive Drab|A.MIG-0741|Shader (Matt)|171|176|116|![#ABB074](https://placehold.co/15x15/ABB074/ABB074.png) `#ABB074`|
+|Goblin Green|A.MIG-0742|Shader (Matt)|78|163|107|![#4EA36B](https://placehold.co/15x15/4EA36B/4EA36B.png) `#4EA36B`|
+|Light Green|A.MIG-0743|Shader (Matt)|143|177|104|![#8FB168](https://placehold.co/15x15/8FB168/8FB168.png) `#8FB168`|
+|Lime Green|A.MIG-0744|Shader (Matt)|93|151|83|![#5D9753](https://placehold.co/15x15/5D9753/5D9753.png) `#5D9753`|
+|Bile Green|A.MIG-0745|Shader (Matt)|172|186|76|![#ACBA4C](https://placehold.co/15x15/ACBA4C/ACBA4C.png) `#ACBA4C`|
+|Turquoise|A.MIG-0746|Shader (Matt)|0|158|169|![#009EA9](https://placehold.co/15x15/009EA9/009EA9.png) `#009EA9`|
+|Sky Blue|A.MIG-0747|Shader (Matt)|56|174|194|![#38AEC2](https://placehold.co/15x15/38AEC2/38AEC2.png) `#38AEC2`|
+|Marine Blue|A.MIG-0748|Shader (Matt)|85|146|189|![#5592BD](https://placehold.co/15x15/5592BD/5592BD.png) `#5592BD`|
+|Night Blue|A.MIG-0749|Shader (Matt)|61|112|137|![#3D7089](https://placehold.co/15x15/3D7089/3D7089.png) `#3D7089`|
+|Ultra Blue|A.MIG-0750|Shader (Matt)|84|100|145|![#546491](https://placehold.co/15x15/546491/546491.png) `#546491`|
+|Purple|A.MIG-0751|Shader (Matt)|103|95|158|![#675F9E](https://placehold.co/15x15/675F9E/675F9E.png) `#675F9E`|
+|Violet Matt|A.MIG-0752|Shader (Matt)|168|126|168|![#A87EA8](https://placehold.co/15x15/A87EA8/A87EA8.png) `#A87EA8`|
+|Light Lilac Grey|A.MIG-0753|Shader (Matt)|135|148|181|![#8794B5](https://placehold.co/15x15/8794B5/8794B5.png) `#8794B5`|
+|Light Grey|A.MIG-0754|Shader (Matt)|156|162|165|![#9CA2A5](https://placehold.co/15x15/9CA2A5/9CA2A5.png) `#9CA2A5`|
+|Navy Grey|A.MIG-0755|Shader (Matt)|116|130|131|![#748283](https://placehold.co/15x15/748283/748283.png) `#748283`|
+|Chocolate Brown|A.MIG-0756|Shader (Matt)|114|63|40|![#723F28](https://placehold.co/15x15/723F28/723F28.png) `#723F28`|
+|Bluish Black|A.MIG-0757|Shader (Matt)|54|60|124|![#363C7C](https://placehold.co/15x15/363C7C/363C7C.png) `#363C7C`|
+|Satin Black|A.MIG-0758|Shader (Matt)|63|66|67|![#3F4243](https://placehold.co/15x15/3F4243/3F4243.png) `#3F4243`|
+|Ash Black|A.MIG-0759|Shader (Matt)|87|90|92|![#575A5C](https://placehold.co/15x15/575A5C/575A5C.png) `#575A5C`|
