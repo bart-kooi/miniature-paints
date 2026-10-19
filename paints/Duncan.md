@@ -183,6 +183,7 @@
 |Yellow Flame|5060951920050|Wave 1|248|175|43|![#F8AF2B](https://placehold.co/15x15/F8AF2B/F8AF2B.png) `#F8AF2B`|
 |Yellow Glaze|5060951921187|Wave 2|242|240|117|![#F2F075](https://placehold.co/15x15/F2F075/F2F075.png) `#F2F075`|
 |Zombie Rot|5060951921439|Wave 3|177|182|121|![#B1B679](https://placehold.co/15x15/B1B679/B1B679.png) `#B1B679`|
+
 EAN codes are comma-separated when multiple variants are verified. Empty cells indicate that no EAN has been verified for the listed product. Set and bundle barcodes are excluded. Checked on 19 October 2026.
 
 <p align="center"><img src="../logos/logo_rnd.png" height="70" /></p>

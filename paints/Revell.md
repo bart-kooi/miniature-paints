@@ -11,8 +11,6 @@
 |Anthracite Grey|42022695|Email Color - Matt|46|47|52|![#2E2F34](https://placehold.co/15x15/2E2F34/2E2F34.png) `#2E2F34`|
 |Anthracite Grey|4009803361093|Aqua Color - Matt|46|47|52|![#2E2F34](https://placehold.co/15x15/2E2F34/2E2F34.png) `#2E2F34`|
 |Anthracite Grey|4009803341095|Spray Color - Matt|46|47|52|![#2E2F34](https://placehold.co/15x15/2E2F34/2E2F34.png) `#2E2F34`|
-|Aqua Color Basic|4009803396224|Aqua Color - Primer|||||
-|Basic Color|4009803038049|Spray Color - Primer|||||
 |Beige|42023128|Email Color - Matt|167|147|123|![#A7937B](https://placehold.co/15x15/A7937B/A7937B.png) `#A7937B`|
 |Beige|42023289|Email Color - Silk|207|180|135|![#CFB487](https://placehold.co/15x15/CFB487/CFB487.png) `#CFB487`|
 |Beige|4009803361895|Aqua Color - Matt|167|147|123|![#A7937B](https://placehold.co/15x15/A7937B/A7937B.png) `#A7937B`|
@@ -48,7 +46,6 @@
 |Carmine Red|42022800|Email Color - Matt|153|21|35|![#991523](https://placehold.co/15x15/991523/991523.png) `#991523`|
 |Carmine Red|4009803361369|Aqua Color - Matt|153|21|35|![#991523](https://placehold.co/15x15/991523/991523.png) `#991523`|
 |Carmine Red|4009803341361|Spray Color - Matt|153|21|35|![#991523](https://placehold.co/15x15/991523/991523.png) `#991523`|
-|Chrome|4009803396286|Spray Color - Metallic|||||
 |Clear|42022633|Email Color - Gloss|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Clear|42022640|Email Color - Matt|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Clear|4009803361017|Aqua Color - Gloss|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
@@ -140,7 +137,6 @@
 |Luminous Red|4009803363325|Aqua Color - Silk|191|17|27|![#BF111B](https://placehold.co/15x15/BF111B/BF111B.png) `#BF111B`|
 |Luminous Yellow|42023272|Email Color - Silk|236|234|64|![#ECEA40](https://placehold.co/15x15/ECEA40/ECEA40.png) `#ECEA40`|
 |Luminous Yellow|4009803363127|Aqua Color - Silk|236|234|64|![#ECEA40](https://placehold.co/15x15/ECEA40/ECEA40.png) `#ECEA40`|
-|Metallic Finisher|4009803339627|Spray Color - Clear|||||
 |Mouse Grey|42022855|Email Color - Matt|108|112|111|![#6C706F](https://placehold.co/15x15/6C706F/6C706F.png) `#6C706F`|
 |Mouse Grey|4009803361475|Aqua Color - Matt|108|112|111|![#6C706F](https://placehold.co/15x15/6C706F/6C706F.png) `#6C706F`|
 |Mud Brown|42023067|Email Color - Gloss|129|83|49|![#815331](https://placehold.co/15x15/815331/815331.png) `#815331`|
@@ -167,7 +163,6 @@
 |Patina Green|4009803363653|Aqua Color - Silk|49|118|99|![#317663](https://placehold.co/15x15/317663/317663.png) `#317663`|
 |Purple Red|42023302|Email Color - Silk|107|26|41|![#6B1A29](https://placehold.co/15x15/6B1A29/6B1A29.png) `#6B1A29`|
 |Purple Red|4009803363318|Aqua Color - Silk|107|26|41|![#6B1A29](https://placehold.co/15x15/6B1A29/6B1A29.png) `#6B1A29`|
-|RBR Blue|4009803342009|Spray Color - Metallic|||||
 |Reddish Brown|42022817|Email Color - Matt|108|49|43|![#6C312B](https://placehold.co/15x15/6C312B/6C312B.png) `#6C312B`|
 |Reddish Brown|4009803361376|Aqua Color - Matt|108|49|43|![#6C312B](https://placehold.co/15x15/6C312B/6C312B.png) `#6C312B`|
 |Rust|42021810|Email Color - Matt|137|78|74|![#894E4A](https://placehold.co/15x15/894E4A/894E4A.png) `#894E4A`|
