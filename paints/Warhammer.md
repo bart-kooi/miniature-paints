@@ -153,5 +153,3 @@
 |Ultramar Blue 3|20-363|5011921277773|Tone Pro|13|79|137|![#0D4F89](https://placehold.co/15x15/0D4F89/0D4F89.png) `#0D4F89`|
 |Ultramar Blue 4|20-364|5011921277780|Tone Pro|67|108|160|![#436CA0](https://placehold.co/15x15/436CA0/436CA0.png) `#436CA0`|
 |Ultramar Blue 5|20-365|5011921277797|Tone Pro|110|158|207|![#6E9ECF](https://placehold.co/15x15/6E9ECF/6E9ECF.png) `#6E9ECF`|
-
-EAN codes: [Herni Prostor product listings](https://www.herniprostor.cz/warhammer-tone-pro/) (checked 19 October 2026).
