@@ -393,7 +393,7 @@
 |Washable Dust|ATOM-20178|8432074201786|ATOM|148|124|86|![#947C56](https://placehold.co/15x15/947C56/947C56.png) `#947C56`|
 |Washable Sand|ATOM-20179|8432074201793|ATOM|208|172|117|![#D0AC75](https://placehold.co/15x15/D0AC75/D0AC75.png) `#D0AC75`|
 |Pure White|A.MIG-0300|8432074003007|Cobra Motor|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
-|Off White|A.MIG-0301|8432074003014|Cobra Motor|240|240|240|![#F0F0F0](https://placehold.co/15x15/FFFFFF/F0F0F0.png) `#F0F0F0`|
+|Off White|A.MIG-0301|8432074003014|Cobra Motor|244|242|234|![#F4F2EA](https://placehold.co/15x15/FFFFFF/F4F2EA.png) `#F4F2EA`|
 |Beige Leather|A.MIG-0302|8432074003021|Cobra Motor|227|199|160|![#E3C7A0](https://placehold.co/15x15/E3C7A0/E3C7A0.png) `#E3C7A0`|
 |Pale Yellow|A.MIG-0303|8432074003038|Cobra Motor|211|201|164|![#D3C9A4](https://placehold.co/15x15/D3C9A4/D3C9A4.png) `#D3C9A4`|
 |Racing Yellow|A.MIG-0304|8432074003045|Cobra Motor|242|229|42|![#F2E52A](https://placehold.co/15x15/F2E52A/F2E52A.png) `#F2E52A`|
