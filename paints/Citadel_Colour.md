@@ -308,6 +308,7 @@
 |Plaguebearer Flesh|Contrast|5011921262236, 5011921185696, 5011921120994|113|128|37|![#718025](https://placehold.co/15x15/718025/718025.png) `#718025`|
 |Praxeti White|Dry|5011921192236, 5011921027064|255|255|255|![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) `#FFFFFF`|
 |Purple Ink|Foundation (discontinued)|5011921984701|132|41|148|![#842994](https://placehold.co/15x15/842994/842994.png) `#842994`|
+|Pylar Glacier|Contrast|5011921145164|136|200|224|![#88C8E0](https://placehold.co/15x15/88C8E0/88C8E0.png) `#88C8E0`|
 |Pyroclast Orange Clear|Air|5011921117345|237|128|34|![#ED8022](https://placehold.co/15x15/ED8022/ED8022.png) `#ED8022`|
 |Rakarth Flesh|Base|5011921196395, 5011921187744, 5011921026548|156|153|141|![#9C998D](https://placehold.co/15x15/9C998D/9C998D.png) `#9C998D`|
 |Ratskin Flesh|Base|5011921196319, 5011921187133, 5011921026463|168|102|72|![#A86648](https://placehold.co/15x15/A86648/A86648.png) `#A86648`|
